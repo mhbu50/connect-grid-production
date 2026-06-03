@@ -13,7 +13,7 @@ import { CaseStudiesListPage } from '@/pages/CaseStudiesListPage';
 import { CaseStudyDetailPage } from '@/pages/CaseStudyDetailPage';
 import { BlogListPage } from '@/pages/BlogListPage';
 import { BlogPostPage } from '@/pages/BlogPostPage';
-import { CareersPage } from '@/pages/CareersPage';
+// import { CareersPage } from '@/pages/CareersPage';
 import { ContactPage } from '@/pages/ContactPage';
 import { RouteErrorBoundary } from '@/components/RouteErrorBoundary';
 import App from './App';
@@ -36,7 +36,7 @@ const router = createBrowserRouter([{
     { path: 'case-studies/:slug', element: <CaseStudyDetailPage /> },
     { path: 'blog', element: <BlogListPage /> },
     { path: 'blog/:slug', element: <BlogPostPage /> },
-    { path: 'careers', element: <CareersPage /> },
+    // { path: 'careers', element: <CareersPage /> },
     { path: 'contact', element: <ContactPage /> }
   ]
 }]);

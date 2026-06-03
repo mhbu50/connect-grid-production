@@ -27,7 +27,7 @@ export const NAV_LINKS = [
   { href: '/packages', key: 'packages' },
   { href: '/about', key: 'about' },
   { href: '/blog', key: 'blog' },
-  { href: '/careers', key: 'careers' },
+  // { href: '/careers', key: 'careers' },
   { href: '/contact', key: 'contact' },
 ];
 export const SERVICES = [
@@ -148,6 +148,34 @@ export const BLOG_POSTS: Record<string, any> = {
     date: '2024-05-01',
     readTime: '7 min',
     image: 'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070&auto=format&fit=crop',
+  },
+  'how-to-build-a-winning-content-strategy': {
+    title: 'How to Build a Winning Content Strategy for 2025',
+    author: 'Ahmed Hesham',
+    date: '2024-06-05',
+    readTime: '7 min',
+    image: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop',
+  },
+  'the-power-of-brand-identity': {
+    title: 'The Power of Brand Identity: Why Consistency Drives Revenue',
+    author: 'Mohammed Abu Khamseen',
+    date: '2024-06-12',
+    readTime: '6 min',
+    image: 'https://images.unsplash.com/photo-1634942537034-2531766767d1?q=80&w=2070&auto=format&fit=crop',
+  },
+  'instagram-vs-tiktok-for-business': {
+    title: 'Instagram vs. TikTok: Which Platform Should Your Business Prioritize?',
+    author: 'Ahmed Hesham',
+    date: '2024-06-20',
+    readTime: '5 min',
+    image: 'https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?q=80&w=2074&auto=format&fit=crop',
+  },
+  'local-seo-for-saudi-businesses': {
+    title: 'How Saudi Businesses Can Dominate Local SEO in 2025',
+    author: 'Mohammed Abu Khamseen',
+    date: '2024-07-01',
+    readTime: '8 min',
+    image: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?q=80&w=2070&auto=format&fit=crop',
   },
 };
 export const CLIENT_LOGOS = [
