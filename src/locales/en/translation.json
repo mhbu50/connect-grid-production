@@ -1,0 +1,1353 @@
+{
+  "hero": {
+    "title": "Transform Your Business with Data-Driven Digital Marketing",
+    "subtitle": "Connect Grid delivers measurable growth through strategic SEO, PPC, social media management, and innovative web solutions. Partner with Riyadh's leading digital agency.",
+    "cta": "Start Your Free Strategy Session"
+  },
+  "nav": {
+    "services": "Services",
+    "ourWork": "Our Work",
+    "caseStudies": "Case Studies",
+    "packages": "Packages",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk",
+    "language": "العربية",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "services": {
+    "title": "Our Core Services",
+    "subtitle": "Comprehensive digital solutions designed to accelerate your business growth and maximize ROI",
+    "keyFeatures": "Key Features",
+    "ourProcess": "Our Process",
+    "benefits": "Key Benefits",
+    "learnMore": "Learn More",
+    "listTitle": "Our Services",
+    "listSubtitle": "Explore our full range of expertise",
+    "full": {
+      "digitalmarketingstrategy": "Digital Marketing Strategy",
+      "socialmediamanagement": "Social Media Management",
+      "searchengineoptimization": "Search Engine Optimization (SEO)",
+      "payperclickadvertising": "Pay-Per-Click Advertising (PPC)",
+      "contentmarketing": "Content Marketing",
+      "emailmarketing": "Email Marketing",
+      "webdesigndevelopment": "Web Design & Development",
+      "brandidentitydesign": "Brand Identity & Design",
+      "analyticsreporting": "Analytics & Reporting",
+      "conversionrateoptimization": "Conversion Rate Optimization"
+    },
+    "details": {
+      "digital-marketing-strategy": {
+        "subtitle": "A roadmap for your digital dominance in the Saudi market.",
+        "description": "We craft bespoke digital marketing strategies that align with your business goals and Saudi market dynamics, ensuring every marketing riyal spent contributes to measurable growth. Our data-driven approach combines deep market analysis with competitive intelligence, cultural insights, and platform-specific strategies optimized for the GCC region. Whether you're launching a new venture or scaling an established brand, we build strategies that adapt to your evolving business needs.",
+        "keyFeatures": [
+          "Comprehensive Market Analysis & Consumer Behavior Insights",
+          "Competitor Benchmarking & Gap Analysis",
+          "Multi-Channel Growth Roadmaps",
+          "KPI Definition & Performance Frameworks",
+          "Budget Allocation & Resource Planning",
+          "Saudi Market Cultural Adaptation",
+          "Quarterly Strategy Reviews & Pivots"
+        ],
+        "benefits": [
+          "Aligned marketing efforts across all channels",
+          "3-5x Higher ROI through strategic resource allocation",
+          "Sustainable competitive edge in your industry",
+          "Clear roadmap with measurable milestones",
+          "Reduced marketing waste and improved efficiency"
+        ],
+        "process": [
+          {
+            "title": "Discovery & Audit",
+            "description": "Deep dive into your business objectives, current performance, target audience, and competitive landscape through stakeholder interviews and data analysis."
+          },
+          {
+            "title": "Strategic Planning",
+            "description": "Development of comprehensive, tailored action plan with prioritized initiatives, timeline, and resource requirements aligned with your business goals."
+          },
+          {
+            "title": "Implementation Roadmap",
+            "description": "Detailed execution plan with milestones, responsibilities, and success metrics for each initiative."
+          },
+          {
+            "title": "Optimization & Scaling",
+            "description": "Continuous monitoring, testing, and refinement based on performance data and market feedback."
+          }
+        ],
+        "idealFor": "Businesses seeking sustainable growth, market entry strategies, or complete marketing transformation with measurable outcomes."
+      },
+      "social-media-management": {
+        "subtitle": "Build an engaged community, not just followers.",
+        "description": "Transform your social presence into a powerful business asset with strategic content that engages, educates, and converts. We manage everything from content creation to daily interactions, trend monitoring, and performance optimization. Our approach goes beyond posting—we build authentic communities that drive brand loyalty and generate qualified leads through data-backed strategies tailored for Saudi and GCC audiences across Instagram, Twitter/X, LinkedIn, TikTok, and Snapchat.",
+        "keyFeatures": [
+          "Strategic Content Creation & Curation",
+          "Professional Arabic & English Copywriting",
+          "Community Management & Real-Time Engagement",
+          "Advanced Analytics Tracking & Reporting",
+          "Trend Monitoring & Rapid Response",
+          "Influencer Collaboration Management",
+          "Platform-Specific Optimization",
+          "Content Calendar Development",
+          "Crisis Management & Reputation Protection"
+        ],
+        "benefits": [
+          "200-400% Increased engagement rates",
+          "Stronger brand loyalty and customer retention",
+          "Consistent lead generation from social channels",
+          "Enhanced brand awareness and market positioning",
+          "Time savings of 15-20 hours weekly",
+          "Professional, on-brand presence across platforms"
+        ],
+        "process": [
+          {
+            "title": "Audience Research",
+            "description": "Comprehensive analysis of demographics, psychographics, competitor followers, engagement patterns, and platform preferences."
+          },
+          {
+            "title": "Content Strategy",
+            "description": "Development of content pillars, posting schedule, visual identity guidelines, and messaging frameworks aligned with brand voice."
+          },
+          {
+            "title": "Content Production",
+            "description": "Creation of high-quality graphics, videos, reels, stories, and copy optimized for each platform's algorithm and audience behavior."
+          },
+          {
+            "title": "Engagement & Growth",
+            "description": "Active community management, strategic interactions, hashtag optimization, and growth tactics to expand reach organically."
+          },
+          {
+            "title": "Performance Analysis",
+            "description": "Monthly reporting with actionable insights, A/B testing results, and strategy refinements based on data trends."
+          }
+        ],
+        "idealFor": "Brands wanting consistent, professional social presence without dedicating internal resources, or businesses struggling with low engagement despite regular posting."
+      },
+      "search-engine-optimization": {
+        "subtitle": "Dominate search results organically and sustainably.",
+        "description": "Achieve top rankings on Google and other search engines through comprehensive technical SEO, strategic content optimization, and local search domination. Our methodology combines technical excellence with content marketing and user experience optimization to deliver long-term organic visibility. We specialize in both Arabic and English SEO, understanding the nuances of bilingual search behavior in the Saudi market. Whether you're competing locally or regionally, we build SEO foundations that compound over time.",
+        "keyFeatures": [
+          "Comprehensive Technical SEO Audit & Fixes",
+          "Advanced Keyword Research (Arabic & English)",
+          "On-Page Optimization & Content Enhancement",
+          "Local SEO & Google Business Profile Optimization",
+          "Link Building & Authority Development",
+          "Site Speed & Core Web Vitals Optimization",
+          "Schema Markup Implementation",
+          "Mobile-First Optimization",
+          "Competitor Gap Analysis",
+          "Content Strategy for Organic Growth"
+        ],
+        "benefits": [
+          "300-500% Organic traffic growth within 6-12 months",
+          "60-70% Lower cost per acquisition vs. paid ads",
+          "Long-term visibility and sustainable traffic",
+          "Higher trust and credibility with searchers",
+          "Competitive advantage in high-intent searches",
+          "Compound returns on investment over time"
+        ],
+        "process": [
+          {
+            "title": "Comprehensive Technical Audit",
+            "description": "Deep analysis of site architecture, crawlability, indexation issues, speed problems, mobile optimization, and technical barriers preventing optimal performance."
+          },
+          {
+            "title": "Keyword Strategy Development",
+            "description": "Research and prioritization of high-value keywords based on search volume, competition, business relevance, and conversion potential."
+          },
+          {
+            "title": "On-Page Optimization",
+            "description": "Strategic implementation of technical fixes, content optimization, internal linking, schema markup, and UX improvements across priority pages."
+          },
+          {
+            "title": "Content & Authority Building",
+            "description": "Creation of high-quality content assets and strategic link acquisition to build topical authority and domain strength."
+          },
+          {
+            "title": "Monitoring & Refinement",
+            "description": "Continuous tracking of rankings, traffic, conversions, and algorithm updates with proactive adjustments to maintain and improve positions."
+          }
+        ],
+        "idealFor": "Businesses seeking sustainable, cost-effective customer acquisition or those heavily reliant on paid ads wanting to reduce long-term advertising costs."
+      },
+      "pay-per-click-advertising": {
+        "subtitle": "Immediate results with precision targeting and maximized ROI.",
+        "description": "Drive instant, qualified traffic to your business through expertly managed Google Ads, Meta Ads, Twitter/X, LinkedIn, and TikTok advertising campaigns. We combine strategic audience targeting, compelling ad creative, and continuous optimization to maximize your advertising ROI. Our data-driven approach ensures every riyal spent generates measurable results, with transparent reporting and agile campaign management that adapts to performance data in real-time.",
+        "keyFeatures": [
+          "Strategic Campaign Setup & Architecture",
+          "Advanced Audience Targeting & Segmentation",
+          "Compelling Ad Creative & Copywriting",
+          "A/B Testing & Multivariate Testing",
+          "Conversion Tracking & Attribution Setup",
+          "Budget Optimization & Bid Management",
+          "Landing Page Analysis & Recommendations",
+          "Remarketing & Retargeting Strategies",
+          "Competitive Analysis & Market Intelligence",
+          "Weekly Performance Reporting & Insights"
+        ],
+        "benefits": [
+          "Immediate qualified traffic and visibility",
+          "4-8x ROI on advertising spend (average)",
+          "Precise targeting of ideal customer profiles",
+          "Scalable results as budget increases",
+          "Full transparency with detailed analytics",
+          "Faster sales cycles and lead generation",
+          "Ability to test markets before major investments"
+        ],
+        "process": [
+          {
+            "title": "Campaign Planning & Research",
+            "description": "Deep audience segmentation analysis, competitor ad research, keyword discovery, and strategic campaign architecture planning aligned with conversion goals."
+          },
+          {
+            "title": "Setup & Launch",
+            "description": "Campaign creation with optimized targeting, compelling ad creative, conversion tracking implementation, and initial budget allocation across platforms."
+          },
+          {
+            "title": "Active Optimization",
+            "description": "Continuous monitoring with daily bid adjustments, audience refinements, ad creative testing, and budget reallocation toward top performers."
+          },
+          {
+            "title": "Scaling & Expansion",
+            "description": "Strategic scaling of winning campaigns, expansion into new audiences and platforms, and advanced techniques like lookalike targeting and automation."
+          },
+          {
+            "title": "Reporting & Strategy",
+            "description": "Comprehensive performance analysis with actionable insights, strategic recommendations, and quarterly planning sessions."
+          }
+        ],
+        "idealFor": "Businesses needing immediate traffic, product launches, seasonal campaigns, or those testing new markets before committing to long-term organic strategies."
+      },
+      "content-marketing": {
+        "subtitle": "Engage audiences with storytelling that converts and builds authority.",
+        "description": "Create compelling, value-driven content that positions your brand as an industry thought leader while driving measurable business results. We develop comprehensive content strategies that attract, engage, and convert your ideal customers through blogs, whitepapers, case studies, infographics, videos, and more. Our content doesn't just inform—it builds trust, nurtures relationships, and supports your SEO and social media efforts with strategic, multi-purpose assets optimized for the Saudi market.",
+        "keyFeatures": [
+          "Strategic Content Strategy & Planning",
+          "Professional Copywriting (Arabic & English)",
+          "Visual Content Design & Video Production",
+          "SEO-Optimized Blog & Article Writing",
+          "Long-Form Content (eBooks, Whitepapers, Guides)",
+          "Case Studies & Success Stories",
+          "Infographics & Data Visualization",
+          "Content Distribution & Promotion",
+          "Content Performance Analytics",
+          "Editorial Calendar Management"
+        ],
+        "benefits": [
+          "Established thought leadership and industry authority",
+          "2-3x increase in qualified lead generation",
+          "Support for SEO efforts with ranking content",
+          "Reusable assets across multiple channels",
+          "Improved customer education and sales enablement",
+          "Higher engagement and brand affinity",
+          "Long-term content assets that compound value"
+        ],
+        "process": [
+          {
+            "title": "Content Audit & Gap Analysis",
+            "description": "Review of existing content, competitive content analysis, identification of opportunities and gaps in current content strategy."
+          },
+          {
+            "title": "Strategy Development",
+            "description": "Creation of content pillars, topic clusters, keyword mapping, format selection, and editorial calendar aligned with business objectives."
+          },
+          {
+            "title": "Production & Optimization",
+            "description": "Professional content creation with SEO optimization, visual design, brand alignment, and quality assurance before publication."
+          },
+          {
+            "title": "Distribution & Amplification",
+            "description": "Strategic content promotion across owned, earned, and paid channels to maximize reach and engagement."
+          },
+          {
+            "title": "Analysis & Refinement",
+            "description": "Performance tracking of engagement, conversions, and SEO impact with continuous refinement of topics and formats based on data."
+          }
+        ],
+        "idealFor": "B2B companies, professional services, e-commerce brands, or any business wanting to reduce acquisition costs through valuable content that attracts and nurtures prospects."
+      },
+      "email-marketing": {
+        "subtitle": "Nurture leads with personalized automation that drives revenue.",
+        "description": "Build lasting customer relationships and maximize lifetime value through strategic email campaigns that deliver the right message to the right person at the right time. We design sophisticated automation workflows, craft compelling email content, and segment audiences for maximum relevance and conversion. From welcome series to abandoned cart recovery, re-engagement campaigns to VIP nurturing, we turn email into one of your highest-ROI marketing channels.",
+        "keyFeatures": [
+          "Strategic Email Campaign Planning",
+          "Professional Email Design & Development",
+          "Advanced Automation Workflows",
+          "Behavioral Segmentation & Personalization",
+          "A/B Testing & Optimization",
+          "List Growth & Lead Magnet Strategies",
+          "Deliverability Optimization",
+          "CRM Integration & Data Management",
+          "Performance Analytics & Reporting",
+          "Compliance Management (GDPR, local regulations)"
+        ],
+        "benefits": [
+          "Average 4200% ROI (highest of all marketing channels)",
+          "Increased customer retention and repeat purchases",
+          "Automated nurturing of leads through sales funnel",
+          "Personalized customer experiences at scale",
+          "Recovery of abandoned carts and lost opportunities",
+          "Stronger customer relationships and loyalty",
+          "Measurable, trackable results for every campaign"
+        ],
+        "process": [
+          {
+            "title": "Audience Segmentation",
+            "description": "Organization of email list into strategic segments based on behavior, demographics, purchase history, and engagement levels for targeted messaging."
+          },
+          {
+            "title": "Workflow Design",
+            "description": "Development of automated email sequences for welcome series, nurture campaigns, abandoned cart recovery, post-purchase follow-ups, and re-engagement."
+          },
+          {
+            "title": "Content & Design",
+            "description": "Creation of compelling email copy and mobile-responsive designs that align with brand identity and drive desired actions."
+          },
+          {
+            "title": "Testing & Deployment",
+            "description": "A/B testing of subject lines, content, CTAs, and send times before scheduled deployment with deliverability optimization."
+          },
+          {
+            "title": "Analysis & Optimization",
+            "description": "Comprehensive tracking of opens, clicks, conversions, and revenue with continuous refinement based on performance data."
+          }
+        ],
+        "idealFor": "E-commerce businesses, subscription services, B2B companies with longer sales cycles, or any business wanting to maximize customer lifetime value through strategic communication."
+      },
+      "web-design-development": {
+        "subtitle": "Beautiful, high-converting websites built for performance and growth.",
+        "description": "Transform your online presence with custom websites engineered for optimal user experience, conversion, and search engine visibility. We combine stunning visual design with technical excellence, creating responsive websites that load instantly, rank well, and convert visitors into customers. Whether you need a corporate website, e-commerce platform, or landing pages, we build digital experiences that represent your brand professionally while driving measurable business results.",
+        "keyFeatures": [
+          "Custom Responsive Design (Mobile-First)",
+          "High-Performance Development & Optimization",
+          "SEO-Friendly Architecture & Integration",
+          "Conversion-Optimized User Experience",
+          "E-commerce Platform Development",
+          "Content Management System (CMS) Integration",
+          "Payment Gateway Integration",
+          "Security & SSL Implementation",
+          "Analytics & Tracking Setup",
+          "Ongoing Maintenance & Support",
+          "Bilingual (Arabic/English) Support"
+        ],
+        "benefits": [
+          "50-200% Higher conversion rates vs. template sites",
+          "Superior user experience and brand perception",
+          "Strong SEO foundation for organic visibility",
+          "Fast load times (under 3 seconds)",
+          "Mobile-optimized for growing mobile traffic",
+          "Scalable platform that grows with your business",
+          "Professional credibility and trust building"
+        ],
+        "process": [
+          {
+            "title": "Discovery & Planning",
+            "description": "Comprehensive analysis of business goals, target audience, competitor websites, functional requirements, and success metrics."
+          },
+          {
+            "title": "Wireframing & UX Design",
+            "description": "Strategic user flow planning, information architecture, wireframes, and interactive prototypes focused on conversion optimization."
+          },
+          {
+            "title": "Visual Design",
+            "description": "Creation of high-fidelity designs aligned with brand identity, incorporating modern design principles and conversion best practices."
+          },
+          {
+            "title": "Development & Testing",
+            "description": "Professional coding with clean, maintainable code, rigorous cross-browser and device testing, performance optimization, and security implementation."
+          },
+          {
+            "title": "Launch & Optimization",
+            "description": "Smooth deployment, analytics setup, training, and post-launch monitoring with continuous improvements based on user behavior data."
+          }
+        ],
+        "idealFor": "Businesses launching new brands, companies with outdated websites hurting conversions, or organizations needing custom functionality beyond template limitations."
+      },
+      "brand-identity-design": {
+        "subtitle": "Memorable brands that stand out and connect emotionally.",
+        "description": "Create a distinctive brand identity that captures your essence and resonates with your target audience. We develop complete brand systems including logo design, color palettes, typography, visual elements, and comprehensive brand guidelines that ensure consistency across all touchpoints. Our strategic approach goes beyond aesthetics—we craft brands that communicate your values, differentiate you from competitors, and create emotional connections that drive customer loyalty.",
+        "keyFeatures": [
+          "Strategic Brand Positioning & Research",
+          "Custom Logo Design (Multiple Concepts)",
+          "Comprehensive Brand Guidelines",
+          "Color Palette & Typography System",
+          "Visual Identity Elements & Patterns",
+          "Business Card & Stationery Design",
+          "Social Media Brand Assets",
+          "Brand Voice & Messaging Framework",
+          "Application Mockups & Examples",
+          "Source Files & Brand Asset Library"
+        ],
+        "benefits": [
+          "Immediate brand recognition and recall",
+          "Professional image that builds trust",
+          "Consistency across all marketing materials",
+          "Differentiation from competitors",
+          "Emotional connection with target audience",
+          "Foundation for all marketing efforts",
+          "Increased perceived value of products/services"
+        ],
+        "process": [
+          {
+            "title": "Discovery & Research",
+            "description": "Deep dive into your business, values, target audience, competitive landscape, and brand positioning to establish strategic direction."
+          },
+          {
+            "title": "Concept Development",
+            "description": "Creation of multiple logo and identity concepts with strategic rationale, exploring different visual directions aligned with brand strategy."
+          },
+          {
+            "title": "Refinement & Selection",
+            "description": "Collaborative refinement of preferred direction with iterations based on feedback until perfect expression is achieved."
+          },
+          {
+            "title": "Visual System Development",
+            "description": "Expansion of chosen concept into complete brand system with all supporting elements, patterns, and applications."
+          },
+          {
+            "title": "Guidelines & Delivery",
+            "description": "Creation of comprehensive brand guidelines document and organized delivery of all final files in multiple formats for various uses."
+          }
+        ],
+        "idealFor": "New businesses establishing their market presence, established companies undergoing rebranding, or businesses with inconsistent visual identity hurting their professional image."
+      },
+      "analytics-reporting": {
+        "subtitle": "Transform data into actionable insights that drive intelligent decisions.",
+        "description": "Make confident, data-driven decisions with comprehensive analytics setup and insightful reporting that reveals exactly what's working and what needs improvement. We implement advanced tracking systems, create custom dashboards, and deliver clear reports that translate complex data into actionable business intelligence. From website analytics to marketing attribution, we help you understand customer behavior, measure ROI accurately, and identify opportunities for growth.",
+        "keyFeatures": [
+          "Google Analytics 4 (GA4) Setup & Configuration",
+          "Custom Dashboard Development",
+          "Marketing Attribution & ROI Tracking",
+          "Conversion Funnel Analysis",
+          "Customer Journey Mapping",
+          "Tag Manager Implementation",
+          "E-commerce Tracking Setup",
+          "Cross-Platform Data Integration",
+          "Automated Reporting & Alerts",
+          "Data Visualization & Insights",
+          "Competitor Benchmarking"
+        ],
+        "benefits": [
+          "Data-driven decisions backed by real insights",
+          "Clear ROI visibility for all marketing investments",
+          "Improved campaign performance through optimization",
+          "Understanding of customer behavior and preferences",
+          "Early identification of issues and opportunities",
+          "Executive-ready reports that communicate impact",
+          "Elimination of guesswork from marketing strategy"
+        ],
+        "process": [
+          {
+            "title": "Audit & Requirements",
+            "description": "Assessment of current tracking setup, identification of gaps, and definition of key metrics and reporting needs aligned with business objectives."
+          },
+          {
+            "title": "Tracking Implementation",
+            "description": "Professional setup of analytics platforms, conversion tracking, event tracking, and integration of all marketing data sources."
+          },
+          {
+            "title": "Dashboard Creation",
+            "description": "Development of custom dashboards tailored to stakeholder needs, providing real-time visibility into critical metrics and KPIs."
+          },
+          {
+            "title": "Insight Delivery",
+            "description": "Regular reporting with analysis that goes beyond numbers—providing context, trends, and strategic recommendations for improvement."
+          },
+          {
+            "title": "Optimization & Evolution",
+            "description": "Continuous refinement of tracking, reports, and analysis as business needs evolve and new opportunities emerge."
+          }
+        ],
+        "idealFor": "Businesses making decisions without data, companies with analytics they don't understand or use, or organizations struggling to prove marketing ROI."
+      },
+      "conversion-rate-optimization": {
+        "subtitle": "Turn more visitors into customers without increasing traffic costs.",
+        "description": "Maximize revenue from existing traffic through systematic testing and optimization of your website and marketing funnels. We use scientific methods combining A/B testing, heat mapping, user session analysis, and conversion psychology to identify and eliminate friction points that prevent conversions. Rather than spending more on traffic acquisition, we help you extract more value from visitors you already have—often delivering 2-3x improvements in conversion rates within months.",
+        "keyFeatures": [
+          "Comprehensive Conversion Audit",
+          "A/B Testing & Multivariate Testing",
+          "Heatmap & Click Tracking Analysis",
+          "User Session Recording & Analysis",
+          "Funnel Drop-off Analysis",
+          "Form Optimization & Reduction",
+          "Checkout Process Optimization",
+          "Landing Page Testing & Improvement",
+          "Copywriting & CTA Optimization",
+          "Mobile Conversion Optimization",
+          "Psychology-Based Design Improvements"
+        ],
+        "benefits": [
+          "100-300% Higher conversion rates typical",
+          "Increased revenue without traffic costs",
+          "Better return on all marketing investments",
+          "Improved user experience and satisfaction",
+          "Reduced customer acquisition costs",
+          "Data-backed decisions eliminate guesswork",
+          "Compound improvements over time"
+        ],
+        "process": [
+          {
+            "title": "Conversion Audit & Analysis",
+            "description": "Comprehensive review of analytics, user behavior data, funnel performance, and identification of highest-impact friction points and opportunities."
+          },
+          {
+            "title": "Hypothesis Development",
+            "description": "Creation of prioritized testing roadmap based on potential impact, implementation effort, and statistical requirements."
+          },
+          {
+            "title": "Test Design & Implementation",
+            "description": "Professional setup of A/B tests with proper statistical methodology, creating variations focused on specific hypotheses."
+          },
+          {
+            "title": "Analysis & Iteration",
+            "description": "Rigorous statistical analysis of results, documentation of learnings, and implementation of winning variations with continuous testing."
+          },
+          {
+            "title": "Optimization Program",
+            "description": "Ongoing testing and improvement program that systematically addresses all conversion barriers and compounds results over time."
+          }
+        ],
+        "idealFor": "E-commerce sites with traffic but low sales, businesses with high acquisition costs, SaaS companies optimizing free-to-paid conversion, or any business wanting more revenue from existing traffic."
+      }
+    }
+  },
+  "footer": {
+    "description": "Connect Grid is a full-service digital marketing agency dedicated to helping businesses grow through data-driven strategies.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "address": "Saudi Arabia, Riyadh, Olaya",
+    "copyright": "© {{year}} Connect Grid. All rights reserved."
+  },
+  "cta": {
+    "title": "Ready to Grow Your Business?",
+    "subtitle": "Let's build something great together. Contact us today to discuss your project.",
+    "button": "Schedule a Call"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our expert team",
+    "formTitle": "Send us a message",
+    "formName": "Full Name",
+    "formEmail": "Email Address",
+    "formCompany": "Company (Optional)",
+    "formMessage": "Message",
+    "formNamePlaceholder": "e.g. John Doe",
+    "formEmailPlaceholder": "e.g. john@example.com",
+    "formCompanyPlaceholder": "e.g. Acme Corp",
+    "formMessagePlaceholder": "How can we help your business grow?",
+    "formSubmit": "Send Message",
+    "infoTitle": "Contact Details",
+    "followUs": "Follow Us",
+    "successMessage": "Thank you! Your message has been sent successfully.",
+    "errorMessage": "Sorry, something went wrong. Please try again later.",
+    "email": "Email",
+    "phone": "Phone",
+    "office": "Office",
+    "validation": {
+      "name": "Name must be at least 2 characters.",
+      "email": "Please enter a valid email address.",
+      "message": "Message must be at least 10 characters."
+    }
+  },
+  "blog": {
+    "title": "Our Blog",
+    "subtitle": "Insights, trends, and strategies from the digital world.",
+    "share": "Share this post",
+    "readTime": "min read",
+    "by": "By",
+    "readMore": "Read More",
+    "posts": {
+      "the-ultimate-guide-to-seo-in-2024": {
+        "title": "The Ultimate Guide to SEO in 2024",
+        "author": "Ahmed Hesham",
+        "date": "2024-05-15",
+        "excerpt": "SEO in 2024 is smarter, more user-focused, and driven by trust, experience, and high-quality content. Master it to dominate the SERPs.",
+        "content": [
+          "🔍 E-E-A-T is more important than ever. Search engines prioritize Experience, Expertise, Authoritativeness, and Trust to rank content that genuinely helps users.",
+          "📱 User experience is a ranking factor. Fast-loading pages, mobile-first design, clean navigation, and Core Web Vitals directly impact SEO performance.",
+          "🧠 Search intent beats keyword stuffing. Successful SEO strategies focus on answering user questions clearly and completely, not just ranking for keywords.",
+          "✍️ High-quality content drives organic growth. In-depth blogs, guides, and thought leadership content build authority and attract long-term traffic.",
+          "📈 SEO and marketing alignment is critical. Integrating SEO with content marketing, branding, and conversion optimization maximizes ROI.",
+          "🚀 At Connect Grid, we help businesses build data-driven SEO strategies that increase visibility, traffic, and conversions."
+        ]
+      },
+      "ppc-vs-seo-which-is-right-for-you": {
+        "title": "PPC vs. SEO: Which Is Right for Your Business?",
+        "author": "Abu Khamseen",
+        "date": "2024-05-01",
+        "excerpt": "Both PPC and SEO are powerful digital marketing tools. The key is knowing when and how to use each for maximum impact.",
+        "content": [
+          "⚡ PPC delivers instant visibility. Paid campaigns place your brand at the top of search results and are ideal for launches, promotions, and short-term goals.",
+          "🌱 SEO builds long-term authority. Organic search creates sustainable traffic and trust that compounds over time.",
+          "💰 PPC offers precise targeting and budget control. You can reach specific audiences based on keywords, location, interests, and behavior.",
+          "🏆 SEO strengthens brand credibility. Users tend to trust organic results more, improving click-through rates and brand perception.",
+          "📊 The smartest strategy combines both. Using PPC for quick wins and SEO for long-term growth creates a balanced, high-performing marketing funnel."
+        ]
+      },
+      "5-social-media-trends-to-watch": {
+        "title": "5 Social Media Trends Your Business Can't Ignore",
+        "author": "Ahmed Hesham",
+        "date": "2024-05-10",
+        "excerpt": "Short-form video, authentic storytelling, AI, and social commerce are redefining how brands connect, engage, and sell on social media.",
+        "content": [
+          "🎥 Short-form video is still king. Platforms like TikTok, Instagram Reels, and YouTube Shorts reward fast, engaging videos that capture attention in seconds and drive massive reach.",
+          "🤝 Authentic content beats polished ads. Users connect more with real stories, behind-the-scenes moments, and honest brand voices than overly scripted marketing messages.",
+          "🛒 Social commerce is turning scrolls into sales. In-app shopping features make it easier than ever for users to discover, trust, and buy products without leaving social platforms.",
+          "💬 Community engagement matters more than follower count. Meaningful conversations, comments, and shares build loyalty and tell algorithms your brand deserves visibility.",
+          "🤖 AI-powered tools are changing the game. From smarter content ideas to deeper analytics and personalization, AI helps brands work faster while staying relevant and creative."
+        ]
+      }
+    }
+  },
+  "caseStudies": {
+    "listTitle": "Case Studies",
+    "listSubtitle": "Browse through our portfolio of 18+ successful digital transformations.",
+    "filterAll": "All",
+    "noResults": "No case studies found.",
+    "clearFilters": "Clear Filters",
+    "challenge": "The Challenge",
+    "solution": "Our Solution",
+    "results": "Results",
+    "visitWebsite": "Visit Website",
+    "servicesProvided": "Services Provided",
+    "details": {
+      "elaf-dental-center": {
+        "title": "Elaf Dental Center",
+        "challenge": "Limited online visibility and low patient bookings despite quality services. The clinic struggled to appear in local searches and lacked a cohesive digital presence to attract new patients in a competitive dental market.",
+        "services": [
+          {
+            "category": "Digital Marketing",
+            "description": "Comprehensive SEO strategy targeting local dental searches with optimized content and Google Business Profile management. Implemented targeted social media campaigns showcasing before/after results, patient testimonials, and educational content. Developed conversion-optimized booking funnels and retargeting campaigns to capture high-intent patients searching for dental services in Riyadh."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Professional branding materials including modern clinic identity system, promotional assets for social media and print campaigns, and patient communication visuals. Created consistent visual language across all touchpoints from appointment cards to social media posts, ensuring professional and trustworthy brand perception."
+          }
+        ],
+        "results": {
+          "summary": "300% growth in monthly bookings and #1 local search ranking."
+        },
+        "stats": [
+          {
+            "value": "300%",
+            "label": "Growth"
+          }
+        ]
+      },
+      "accurate-system": {
+        "title": "Accurate System Tech",
+        "challenge": "Outdated B2B digital presence limiting enterprise client acquisition. The website failed to communicate technical capabilities and lacked credibility markers needed for decision-makers evaluating enterprise technology partners.",
+        "services": [
+          {
+            "category": "Website Development",
+            "description": "Modern B2B performance portal with comprehensive lead generation features, detailed case studies showcasing successful implementations, and clear service showcase pages. Built with conversion-optimized architecture including automated lead qualification forms, technical specifications library, and secure client portal. Implemented responsive design ensuring seamless experience across all devices used by B2B decision-makers.",
+            "website": "https://accuratesystems.com.sa"
+          },
+          {
+            "category": "Digital Marketing",
+            "description": "Targeted B2B campaigns focusing on LinkedIn and industry platforms to reach enterprise decision-makers. Developed thought leadership content strategy including whitepapers, technical blog posts, and case studies to boost tech solutions visibility. Implemented marketing automation for lead nurturing and account-based marketing targeting high-value enterprise prospects in technology sector."
+          }
+        ],
+        "results": {
+          "summary": "220% increase in qualified leads and stronger enterprise positioning."
+        },
+        "stats": [
+          {
+            "value": "220%",
+            "label": "Leads"
+          }
+        ]
+      },
+      "dr-ihab-elsharkawy": {
+        "title": "Dr. Ihab ElSharkawy Clinic",
+        "challenge": "Establishing medical authority and streamlining patient acquisition online. Dr. ElSharkawy needed to differentiate his specialized practice and build trust with prospective patients in a crowded healthcare market while modernizing appointment booking processes.",
+        "services": [
+          {
+            "category": "Website Development",
+            "description": "Professional medical clinic website featuring intuitive online booking system with real-time availability, automated appointment confirmations, and patient portal for medical records access. Built with HIPAA-compliant security, mobile-responsive design, and seamless integration with clinic management systems. Included doctor profile pages, service descriptions, and educational health resources to establish expertise and improve patient experience.",
+            "website": "https://drihabelsharkawy.com/"
+          },
+          {
+            "category": "Digital Marketing",
+            "description": "Medical SEO strategy targeting specialty-specific keywords and local health searches to establish online authority. Developed authority-building content strategy including health blog posts, condition guides, and treatment explainers to establish credibility and attract patients. Implemented Google Ads campaigns for high-intent medical searches and reputation management to showcase positive patient reviews and testimonials."
+          },
+          {
+            "category": "Branding",
+            "description": "Complete medical brand identity system including professional logo design reflecting medical expertise, carefully selected color palette conveying trust and cleanliness, and comprehensive visual guidelines ensuring consistency. Created brand strategy positioning the clinic as a modern, patient-centric healthcare provider while maintaining professional medical standards and credibility."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Professional visual design assets for clinic communications including appointment reminder templates, patient education materials, social media graphics, and print collateral. Designed waiting room signage, prescription pads, medical forms, and all patient-facing materials with consistent, trust-building visual language that reinforces brand identity and professionalism."
+          }
+        ],
+        "results": {
+          "summary": "Streamlined patient bookings and established recognized medical authority."
+        },
+        "stats": [
+          {
+            "value": "290%",
+            "label": "Appts"
+          }
+        ]
+      },
+      "al-sebha-stones": {
+        "title": "Al Sebha Stones",
+        "challenge": "Breaking into export markets with B2B industrial branding challenges. Al Sebha Stones needed to communicate product quality and technical specifications to international buyers while competing against established regional stone suppliers with stronger digital presence.",
+        "services": [
+          {
+            "category": "Website Development",
+            "description": "Comprehensive B2B catalog and export showcase portal featuring detailed technical specifications, high-quality product photography, and filterable stone categories. Implemented multi-language support (Arabic/English), inquiry forms for bulk orders, and downloadable specification sheets. Built with B2B-optimized navigation allowing buyers to quickly find specific stone types, dimensions, and certifications required for export projects.",
+            "website": "https://alsebhaastones.com/"
+          },
+          {
+            "category": "Branding",
+            "description": "Industrial brand identity system specifically designed for stone export markets and B2B credibility building. Developed visual language conveying reliability, quality, and scale through professional logo, earthy color palette reflecting natural stone products, and comprehensive brand guidelines. Created positioning strategy highlighting Saudi origin, quality certifications, and competitive export advantages to appeal to GCC construction and architecture firms."
+          }
+        ],
+        "results": {
+          "summary": "Successfully entered regional GCC markets with strong presence."
+        },
+        "stats": [
+          {
+            "value": "380%",
+            "label": "Inquiries"
+          }
+        ]
+      },
+      "flexi-car-rental": {
+        "title": "Flexi Car Rental",
+        "challenge": "Manual rental process creating friction and operational inefficiencies. The company relied heavily on phone bookings leading to double bookings, customer frustration, and significant staff time wasted on manual coordination and payment processing.",
+        "services": [
+          {
+            "category": "Website Development",
+            "description": "Automated car rental booking engine featuring real-time vehicle availability calendar, instant booking confirmations, and integrated payment processing (Mada, Visa, Mastercard). Built comprehensive customer management system with booking history, loyalty rewards tracking, and automated email/SMS notifications. Developed mobile-responsive interface allowing customers to book, modify, or cancel rentals 24/7. Included fleet management dashboard for staff to track vehicle status, maintenance schedules, and booking analytics.",
+            "website": "https://flexicarrentals.com/en"
+          },
+          {
+            "category": "Digital Marketing",
+            "description": "Online promotion campaigns targeting tourists and business travelers through Google Ads focusing on car rental keywords and location-based searches. Implemented retargeting campaigns for abandoned bookings and strategic lead generation through content marketing about Riyadh travel tips and car rental guides. Developed social media presence showcasing fleet quality, customer testimonials, and seasonal promotions to build brand awareness and drive direct bookings."
+          }
+        ],
+        "results": {
+          "summary": "Became top-rated digital rental service with 95% online bookings."
+        },
+        "stats": [
+          {
+            "value": "300+",
+            "label": "Bookings"
+          }
+        ]
+      },
+      "wahj-al-shamal": {
+        "title": "Wahj Al Shamal Hospitality",
+        "challenge": "Telling authentic cultural story effectively in digital space. Wahj Al Shamal needed to communicate traditional Saudi hospitality values while appealing to modern luxury travelers, balancing heritage authenticity with contemporary guest expectations.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Hospitality brand story and visual identity expertly blending traditional Saudi heritage elements with modern luxury positioning. Developed narrative celebrating Northern Border region's cultural richness while emphasizing world-class amenities and service standards. Created visual system incorporating traditional patterns, Arabic calligraphy, and authentic cultural motifs reinterpreted through contemporary design lens. Established brand voice balancing warm hospitality storytelling with professional luxury hotel communication standards.",
+            "website": "https://wahjshmal.com/"
+          },
+          {
+            "category": "Website Development",
+            "description": "Immersive digital presence showcasing cultural hospitality through stunning photography, virtual tours, and engaging storytelling about local heritage and experiences. Built seamless booking experience with real-time room availability, package customization, and secure payment processing. Included experience showcase highlighting cultural activities, traditional dining, and regional exploration opportunities. Optimized for mobile travelers researching Saudi tourism destinations with fast load times and intuitive navigation."
+          }
+        ],
+        "results": {
+          "summary": "Achieved full launch occupancy with strong brand recognition."
+        },
+        "stats": [
+          {
+            "value": "100%",
+            "label": "Occupancy"
+          }
+        ]
+      },
+      "caber-design": {
+        "title": "Caber Design",
+        "challenge": "Creating architectural precision identity in competitive market. Caber Design needed to differentiate their studio and communicate design philosophy to attract high-value residential and commercial projects while standing out among established architectural firms.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Minimalist architectural studio brand identity reflecting precision, attention to detail, and modern design philosophy. Developed clean, geometric logo system emphasizing structural integrity and creative vision. Created sophisticated visual language using restrained color palette, premium typography, and carefully curated imagery showcasing architectural precision. Established brand positioning as boutique studio delivering thoughtful, detail-oriented design solutions for discerning clients who value quality over quantity."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Portfolio presentation system, project showcase visuals, and comprehensive marketing materials design. Created presentation templates for client pitches featuring project renders, floor plans, and design process documentation. Designed business collateral including letterheads, proposal folders, and site signage maintaining consistent minimalist aesthetic. Developed digital and print portfolio books showcasing completed projects with professional photography, technical drawings, and client testimonials highlighting design excellence."
+          }
+        ],
+        "results": {
+          "summary": "Established as recognized top-tier architectural studio."
+        },
+        "stats": [
+          {
+            "value": "400%",
+            "label": "Recognition"
+          }
+        ]
+      },
+      "arwad-branding": {
+        "title": "Arwad Group",
+        "challenge": "Modernizing heritage brand while preserving traditional equity. After 30 years in business, Arwad Group needed contemporary visual identity to appeal to younger demographics without alienating loyal customers who valued traditional reputation and trust.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Heritage business brand modernization and architecture carefully balancing tradition with contemporary appeal. Evolved logo maintaining recognizable equity while introducing cleaner, more versatile design suitable for digital applications. Updated brand architecture across multiple business divisions creating cohesive family while allowing sub-brand flexibility. Developed comprehensive brand strategy repositioning Arwad as progressive yet trusted, honoring 30-year legacy while signaling innovation and forward thinking to attract new generation of customers."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Updated visual assets and communications materials preserving traditional values while introducing modern aesthetic sensibilities. Redesigned business collateral, signage, and marketing materials with refined typography, contemporary color applications, and improved hierarchy. Created transition guidelines helping stakeholders adopt new identity gradually while maintaining brand recognition. Developed applications demonstrating how heritage elements integrate with modern design across digital platforms, print materials, and environmental graphics."
+          }
+        ],
+        "results": {
+          "summary": "Achieved unified perception across all business units."
+        },
+        "stats": [
+          {
+            "value": "280%",
+            "label": "Awareness"
+          }
+        ]
+      },
+      "abu-al-ward-phone": {
+        "title": "Abu Al Ward Mobile",
+        "challenge": "Transitioning physical store to competitive e-commerce space. Abu Al Ward faced declining foot traffic and needed online presence to compete with major online retailers while maintaining local market advantage and customer relationships.",
+        "services": [
+          {
+            "category": "Website Development",
+            "description": "Complete e-commerce platform for mobile accessories featuring product catalog with detailed specifications, high-quality imagery, and customer reviews. Integrated real-time inventory management syncing with physical store stock, secure payment gateway supporting multiple methods, and efficient order fulfillment system. Built mobile-optimized shopping experience with product comparison tools, wishlist functionality, and streamlined checkout process. Implemented customer account system tracking purchase history and enabling easy reordering of frequently purchased accessories."
+          },
+          {
+            "category": "Search Engine Optimization",
+            "description": "Local SEO domination strategy achieving #1 rankings in phone retail and mobile accessory searches throughout Tabuk region. Optimized product pages with keyword-rich descriptions, technical specifications, and schema markup for enhanced search visibility. Built local citation network and Google Business Profile optimization driving map pack rankings. Created content strategy targeting long-tail product searches and comparison queries. Implemented technical SEO best practices ensuring fast site speed, mobile optimization, and proper indexation of product catalog."
+          }
+        ],
+        "results": {
+          "summary": "Ranked #1 locally, outperforming major retail chains online."
+        },
+        "stats": [
+          {
+            "value": "450%",
+            "label": "Sales"
+          }
+        ]
+      },
+      "devok-branding": {
+        "title": "Devok Software",
+        "challenge": "Building enterprise tech trust and credibility for contracts. Devok needed to overcome perception as small vendor and establish credibility with government procurement decision-makers and large corporate IT departments evaluating enterprise software partners.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Enterprise software visual language and corporate identity building trust, stability, and innovation perception. Developed professional brand system conveying technical expertise, security consciousness, and enterprise-grade reliability. Created positioning strategy emphasizing Saudi-based advantage, government compliance knowledge, and local support capabilities. Established visual standards matching expectations of enterprise buyers including conservative color palette, clean typography, and professional imagery showcasing successful implementations and satisfied enterprise clients."
+          },
+          {
+            "category": "Website Development",
+            "description": "Professional tech showcase featuring detailed case studies with measurable results, government contract highlights, and secure client portal access. Built comprehensive solutions pages explaining technical capabilities, integration options, and compliance certifications. Implemented lead capture optimized for enterprise sales cycles with gated content, demo request forms, and RFP response capabilities. Developed client portal allowing existing customers to access support documentation, submit tickets, and view project status updates securely."
+          }
+        ],
+        "results": {
+          "summary": "Successfully secured major government and corporate contracts."
+        },
+        "stats": [
+          {
+            "value": "500%",
+            "label": "Contracts"
+          }
+        ]
+      },
+      "abo-ali-group": {
+        "title": "Abo Ali Group",
+        "challenge": "Unifying diverse conglomerate business units under one brand. Abo Ali Group operated multiple companies across different sectors with inconsistent branding creating confusion and diluting overall group value perception among stakeholders and potential partners.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Conglomerate group identity unification system with master brand architecture creating cohesive family while respecting sub-brand individuality. Developed parent brand positioning as diversified, stable business group with strong leadership and values. Created flexible identity system allowing business units to maintain sector-appropriate personalities while clearly connecting to parent organization through shared visual elements, endorsement strategy, and naming conventions. Established governance model ensuring brand consistency while empowering subsidiary autonomy within defined parameters."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Comprehensive brand guidelines manual and application assets for all divisions covering logo usage, color systems, typography standards, and visual language rules. Designed template systems for business units including stationery, presentations, signage, and marketing materials ensuring family resemblance across diverse sectors. Created transition materials and internal communication assets educating stakeholders on new identity system. Developed digital asset library providing easy access to approved logos, templates, and brand resources for consistent implementation across organization."
+          }
+        ],
+        "results": {
+          "summary": "Achieved 100% visual consistency across all business units."
+        },
+        "stats": [
+          {
+            "value": "350%",
+            "label": "Recognition"
+          }
+        ]
+      },
+      "damcon-identity": {
+        "title": "Damcon Construction",
+        "challenge": "Building industrial credibility for competitive tender wins. Damcon struggled to compete against established regional contractors in high-value tenders due to weak brand presence and ineffective presentation of capabilities and past project success.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Industrial construction company brand system conveying scale, reliability, and project execution excellence. Developed professional identity reflecting engineering precision and construction expertise through strong geometric logo, industrial color palette, and visual language emphasizing strength and dependability. Created positioning strategy highlighting Saudi workforce, safety record, and on-time delivery track record. Established brand standards ensuring consistent professional appearance across all tender submissions, site materials, and corporate communications building recognition with procurement committees."
+          },
+          {
+            "category": "Website Development",
+            "description": "Project portfolio showcase and tender presentation materials platform featuring completed mega-projects with detailed metrics, photo documentation, and client testimonials. Built comprehensive capabilities pages organized by project type, service offerings, and certifications. Implemented secure document download system for prequalification packages, company profile, and technical specifications. Developed project gallery with filterable categories allowing potential clients to explore relevant experience. Integrated contact forms optimized for tender inquiry capture with automated routing to appropriate business development staff."
+          }
+        ],
+        "results": {
+          "summary": "Significantly improved tender success rate and project value."
+        },
+        "stats": [
+          {
+            "value": "280%",
+            "label": "Success"
+          }
+        ]
+      },
+      "astiri-luxury": {
+        "title": "Astiri Perfumes",
+        "challenge": "Launching premium brand in competitive luxury perfume market. Astiri needed to establish credibility and desirability among affluent consumers in market dominated by heritage French brands and established regional luxury perfume houses.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Luxury perfume visual language, positioning, and Arabic elegance brand identity celebrating Saudi heritage while competing in international luxury market. Developed sophisticated brand story connecting traditional Arabian perfumery craftsmanship with contemporary luxury lifestyle. Created visual identity system featuring elegant Arabic calligraphy, premium color palette of deep burgundy and gold, and refined minimalist design aesthetic. Established brand voice balancing exclusivity with approachability, tradition with innovation, appealing to new generation of luxury consumers seeking authentic cultural expressions."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Premium packaging design featuring hand-finished details, luxury materials, and gift-worthy presentation boxes creating unboxing experience worthy of luxury positioning. Developed marketing materials including lookbook photography, seasonal campaign visuals, and retail point-of-sale displays maintaining premium aesthetic. Designed luxury visual assets for social media, advertisements, and influencer partnerships showcasing product beauty and brand lifestyle. Created cohesive retail experience design guidelines for boutique stores and department store counters ensuring consistent brand expression across distribution channels."
+          }
+        ],
+        "results": {
+          "summary": "Established as regional luxury leader in first year."
+        },
+        "stats": [
+          {
+            "value": "420%",
+            "label": "Orders"
+          }
+        ]
+      },
+      "bareq-pixel": {
+        "title": "Bareq Pixel",
+        "challenge": "Launching creative agency with credibility and client visibility. Bareq Pixel needed to overcome startup perception and demonstrate capabilities to attract enterprise clients typically reluctant to work with unproven agencies without extensive portfolios or market reputation.",
+        "services": [
+          {
+            "category": "Website Development",
+            "description": "Interactive agency portfolio showcase featuring immersive case studies with detailed process documentation, measurable results, and client testimonials. Built capabilities presentation organizing services by discipline, industry expertise, and project type. Implemented modern web technologies creating memorable first impression with smooth animations, parallax effects, and engaging interactions demonstrating technical proficiency. Developed blog platform showcasing creative thinking through insights, trend analysis, and behind-the-scenes content building thought leadership. Integrated lead capture throughout site with strategic contact forms, proposal request system, and newsletter signup."
+          },
+          {
+            "category": "Digital Marketing",
+            "description": "Strategic lead generation campaigns and targeted outreach for creative agency services focusing on LinkedIn advertising to reach marketing directors and brand managers. Implemented account-based marketing targeting specific high-value prospects with personalized content and engagement sequences. Developed content marketing strategy including case study promotion, creative showcases, and educational resources positioning agency as experts. Created referral program incentivizing existing network to introduce qualified leads. Leveraged speaking opportunities, industry events, and creative competitions for visibility and credibility building."
+          }
+        ],
+        "results": {
+          "summary": "Secured 12 major enterprise clients in first year."
+        },
+        "stats": [
+          {
+            "value": "12",
+            "label": "Clients"
+          }
+        ]
+      },
+      "al-tarek-industries": {
+        "title": "Al Tarek Food Industries",
+        "challenge": "Outdated packaging limiting retail shelf visibility and expansion. Al Tarek's traditional packaging design failed to stand out on crowded supermarket shelves leading to low brand recognition and limiting distribution opportunities with major retail chains demanding modern, eye-catching designs.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Complete food packaging redesign optimized for retail shelf impact combining modern aesthetic with appetite appeal. Reimagined visual system using vibrant colors, improved product photography showcasing quality, and hierarchy emphasizing brand name and product type for quick shelf scanning. Developed packaging architecture across product lines creating family resemblance while allowing category differentiation. Incorporated consumer insights research identifying key purchase drivers and decision factors at point of sale. Ensured designs met regulatory requirements while maximizing available space for brand storytelling and product benefits."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Product labeling system, visual merchandising guidelines, and comprehensive brand refresh materials supporting retail expansion. Designed retail-ready labels with nutrition facts, ingredient transparency, and quality certifications prominently displayed building consumer trust. Created point-of-sale displays, shelf talkers, and promotional materials driving trial and purchase. Developed merchandising guidelines showing optimal product placement, spacing, and facing strategies maximizing shelf presence. Produced retailer presentation materials demonstrating packaging improvements and projected sales lift supporting distribution negotiations with supermarket chains."
+          }
+        ],
+        "results": {
+          "summary": "60% higher shelf visibility driving major production expansion."
+        },
+        "stats": [
+          {
+            "value": "250%",
+            "label": "Capacity"
+          }
+        ]
+      },
+      "reem-al-sidra": {
+        "title": "Reem Al Sidra Real Estate",
+        "challenge": "Marketing high-value luxury properties in competitive market. Reem Al Sidra struggled to differentiate premium offerings and justify price premiums while sales cycles extended due to ineffective marketing failing to reach qualified high-net-worth buyers.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Luxury real estate property visual system and high-end brand positioning establishing Reem Al Sidra as premier developer of exclusive residential properties. Created sophisticated brand identity reflecting architectural quality, location prestige, and lifestyle elevation. Developed visual language using premium materials, elegant typography, and aspirational lifestyle imagery in marketing collateral. Established brand voice balancing exclusivity with welcoming luxury, emphasizing quality craftsmanship, prime locations, and investment value. Positioned properties as status symbols and lifestyle statements appealing to affluent buyers seeking distinctive homes."
+          },
+          {
+            "category": "Digital Marketing",
+            "description": "High-end property marketing campaigns targeting affluent buyer segments through premium channels and strategic partnerships. Implemented luxury lifestyle content marketing showcasing property features through professional photography, virtual tours, and drone videography. Developed targeted advertising on platforms frequented by high-net-worth individuals including luxury magazines, premium websites, and exclusive social media groups. Created strategic partnerships with wealth management firms, private banks, and luxury brands accessing qualified buyer networks. Leveraged influencer collaborations and exclusive preview events generating desire and urgency among target demographic."
+          }
+        ],
+        "results": {
+          "summary": "Significantly accelerated luxury property sales cycle."
+        },
+        "stats": [
+          {
+            "value": "320%",
+            "label": "Velocity"
+          }
+        ]
+      },
+      "shifaa-medical-center": {
+        "title": "Shifaa Medical Center",
+        "challenge": "Transforming traditional center into modern digital healthcare provider. Shifaa Medical Center operated with outdated systems creating patient frustration with booking difficulties, long wait times, and lack of digital convenience expected by modern healthcare consumers.",
+        "services": [
+          {
+            "category": "Website Development",
+            "description": "Comprehensive medical health portal featuring online appointment booking with specialty and doctor selection, real-time availability, and automated confirmations. Built secure patient portal allowing medical records access, prescription refills, test result viewing, and direct messaging with healthcare providers. Integrated telemedicine capabilities enabling virtual consultations, remote monitoring, and follow-up appointments. Implemented multi-language support (Arabic/English), mobile-responsive design, and HIPAA-compliant security protecting patient data. Developed doctor profile pages with specialties, credentials, patient reviews, and available appointment slots improving provider selection and patient confidence.",
+            "website": "https://shifaacenter.com"
+          },
+          {
+            "category": "Digital Marketing",
+            "description": "Multi-channel patient acquisition strategies including medical SEO targeting health condition searches, symptom queries, and local healthcare searches in Jeddah area. Developed content marketing strategy with health blog, condition guides, and preventive care resources establishing authority and attracting organic traffic. Implemented Google Ads campaigns targeting high-intent medical searches with specialty-specific landing pages. Created social media presence sharing health tips, doctor spotlights, and patient success stories building community engagement. Launched email marketing campaigns for appointment reminders, health screenings, and seasonal wellness programs encouraging preventive care and repeat visits."
+          }
+        ],
+        "results": {
+          "summary": "Doubled patient volume through digital transformation."
+        },
+        "stats": [
+          {
+            "value": "410%",
+            "label": "Bookings"
+          }
+        ]
+      },
+      "crepe-juice-branding": {
+        "title": "Crepe & Juice",
+        "challenge": "Launching vibrant F&B startup with rapid expansion goals. Crepe & Juice needed memorable brand identity and operational systems supporting aggressive growth timeline while maintaining quality and consistency across multiple planned locations.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Vibrant F&B startup identity system with energetic brand personality and visual language appealing to young, health-conscious consumers seeking quality quick-service dining. Developed playful yet sophisticated brand reflecting fresh ingredients, customization options, and contemporary dining experience. Created distinctive logo, bright color palette, and fun visual elements suitable for social media sharing. Established brand voice balancing casual friendliness with quality commitment. Designed scalable identity system with flexibility for seasonal campaigns, limited editions, and new product launches while maintaining core brand recognition across growing chain."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Menu design featuring appetizing food photography, clear organization, and upselling strategies maximizing average order value. Designed outlet visuals including store signage, interior graphics, counter displays, and packaging maintaining consistent brand experience. Developed product photography guidelines and style guide ensuring consistent visual representation across marketing materials. Created social media content templates, seasonal campaign assets, and promotional materials supporting marketing initiatives. Designed employee uniforms, branded merchandise, and loyalty program materials reinforcing brand at every customer touchpoint."
+          },
+          {
+            "category": "Website Development",
+            "description": "Online ordering platform with location-based menu display, customization options, and integrated payment processing enabling convenient pickup and delivery orders. Built mobile-optimized interface recognizing majority of quick-service orders occur via smartphone. Implemented loyalty program integration rewarding repeat customers and gathering valuable data. Developed digital brand presence featuring story, menu exploration, nutritional information, and location finder with hours and contact details. Created franchise information section supporting expansion plans with inquiry forms for potential partners interested in opening locations."
+          }
+        ],
+        "results": {
+          "summary": "Successfully scaled to 3 locations within first year."
+        },
+        "stats": [
+          {
+            "value": "560%",
+            "label": "Engagement"
+          }
+        ]
+      }
+    }
+  },
+  "about": {
+    "pageTitle": "About Connect Grid",
+    "pageSubtitle": "Driving digital success through innovation and expertise",
+    "storyTitle": "Our Story",
+    "storyParagraph1": "Founded in Riyadh in 2020, Connect Grid started with a simple mission: to help local businesses thrive in the digital age.",
+    "storyParagraph2": "Today, we are a leading agency delivering measurable results through data-driven strategies and creative excellence.",
+    "clientsTitle": "Our Success Network",
+    "clientsSubtitle": "Join 20+ ambitious brands who've achieved growth with us",
+    "teamTitle": "Our Leadership Team",
+    "teamSubtitle": "Meet the experts powering your digital transformation",
+    "team": {
+      "members": [
+        {
+          "name": "Mohammed Abu Khamseen",
+          "title": "CEO & Founder",
+          "bio": "Visionary leader with 10+ years in digital marketing."
+        },
+        {
+          "name": "Ahmed Hesham",
+          "title": "COO",
+          "bio": "Operations expert ensuring flawless project delivery."
+        },
+        {
+          "name": "Hassan ElSayed",
+          "title": "Marketing Director",
+          "bio": "SEO specialist driving organic growth."
+        },
+        {
+          "name": "Omar AlKhateb",
+          "title": "Creative Director",
+          "bio": "Award-winning designer creating brand identities."
+        }
+      ]
+    }
+  },
+  "careers": {
+    "title": "Careers",
+    "subtitle": "Join the Connect Grid team and build the future of marketing.",
+    "joinUsTitle": "Join Us",
+    "joinUsSubtitle": "We're always looking for talented individuals.",
+    "applyNow": "Apply Now",
+    "noOpenings": "No open positions at the moment. Please check back later!",
+    "openings": [
+      {
+        "title": "Digital Marketing Specialist",
+        "location": "Riyadh",
+        "type": "Full-time",
+        "description": "Develop and optimize campaigns."
+      },
+      {
+        "title": "SEO Expert",
+        "location": "Riyadh",
+        "type": "Full-time",
+        "description": "Lead technical audits."
+      },
+      {
+        "title": "Frontend Developer",
+        "location": "Riyadh",
+        "type": "Full-time",
+        "description": "Build responsive UIs with React, TypeScript, and TailwindCSS."
+      },
+      {
+        "title": "Content Strategist",
+        "location": "Riyadh / Remote",
+        "type": "Full-time",
+        "description": "Develop content calendars, SEO strategies, and high-performing copy."
+      },
+      {
+        "title": "PPC Campaign Manager",
+        "location": "Riyadh",
+        "type": "Full-time",
+        "description": "Manage and optimize Google Ads and Meta campaigns for maximum ROI."
+      }
+    ]
+  },
+  "packages": {
+    "pageTitle": "Social Media Marketing Packages",
+    "pageSubtitle": "Choose the perfect plan to grow your brand's digital presence.",
+    "specialOffer": {
+      "title": "Launch Special Offer",
+      "description": "Get 10% off your first three months."
+    },
+    "adNote": "All plans include ad campaign management. We charge 5% of your total ad spend.",
+    "items": [
+      {
+        "name": "Starter",
+        "badge": "Essential",
+        "price": "5,499",
+        "currency": "SAR",
+        "period": "/ month",
+        "description": "Perfect for small businesses ready to build their online presence.",
+        "features": [
+          "1 Platform (Instagram or TikTok)",
+          "8 Custom Posts / month",
+          "4 Reels / month",
+          "8 Stories / month",
+          "Competitor Analysis",
+          "Ad Campaign Management (5% of ad spend)",
+          "1 Revision round per design",
+          "Monthly Performance Report"
+        ],
+        "commitment": {
+          "title": "Quarterly (3 months) — 10% off",
+          "total": "14,848 SAR",
+          "insteadOf": "16,497 SAR",
+          "save": "Save 1,649 SAR (10%)"
+        },
+        "cta": "Get Started"
+      },
+      {
+        "name": "Professional Growth",
+        "badge": "Most Popular",
+        "price": "8,499",
+        "currency": "SAR",
+        "period": "/ month",
+        "description": "Advanced strategy for growing brands ready to scale.",
+        "features": [
+          "2 Platforms (e.g. Instagram + TikTok)",
+          "16 Custom Posts / month",
+          "8 Reels / month",
+          "16 Stories / month",
+          "Competitor Analysis",
+          "Ad Campaign Management (5% of ad spend)",
+          "2 Revision rounds per design",
+          "Monthly Strategy Call",
+          "Monthly Performance Report"
+        ],
+        "commitment": {
+          "title": "Quarterly (3 months) — 10% off",
+          "total": "22,947 SAR",
+          "insteadOf": "25,497 SAR",
+          "save": "Save 2,550 SAR (10%)"
+        },
+        "cta": "Choose Professional"
+      },
+      {
+        "name": "Enterprise",
+        "badge": "Full Scale",
+        "price": "14,999",
+        "currency": "SAR",
+        "period": "/ month",
+        "description": "Full-service social media management for ambitious brands.",
+        "features": [
+          "3+ Platforms (Instagram, TikTok, Snapchat, LinkedIn)",
+          "24 Custom Posts / month",
+          "12 Reels / month",
+          "24 Stories / month",
+          "Competitor Analysis",
+          "Ad Campaign Management (5% of ad spend)",
+          "Unlimited Revisions",
+          "Dedicated Account Manager",
+          "Weekly Strategy Call",
+          "Priority Support (24hr response)",
+          "Quarterly Business Review"
+        ],
+        "commitment": {
+          "title": "Quarterly (3 months) — 10% off",
+          "total": "40,497 SAR",
+          "insteadOf": "44,997 SAR",
+          "save": "Save 4,500 SAR (10%)"
+        },
+        "cta": "Contact Sales"
+      }
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "caseStudies": "Case Studies"
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "subtitle": "Successful digital transformations.",
+    "viewCaseStudy": "View Case Study",
+    "viewAll": "View All Case Studies"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "What our clients say about us",
+    "items": [
+      {
+        "quote": "Connect Grid completely transformed our clinic's online presence. Patient bookings skyrocketed and we now rank #1 in local dental searches. Best investment we've made!",
+        "name": "Dr. Ahmed Al-Mansouri",
+        "company": "Elaf Dental Center — Owner"
+      },
+      {
+        "quote": "Our enterprise clients now take us seriously from the first visit to our website. Connect Grid repositioned us as a true tech leader and the leads speak for themselves.",
+        "name": "Eng. Mohammed Reda",
+        "company": "Accurate System Tech — CEO"
+      },
+      {
+        "quote": "They built us a world-class medical website and a brand identity that truly reflects our standards. Patient appointments nearly tripled within months of launch.",
+        "name": "Dr. Ihab ElSharkawy",
+        "company": "Dr. Ihab ElSharkawy Clinic — Founder"
+      },
+      {
+        "quote": "Connect Grid opened export doors we didn't think were possible. The B2B portal they built for us now attracts serious buyers from across the GCC every single week.",
+        "name": "Khaled Al-Sebha",
+        "company": "Al Sebha Stones — Managing Director"
+      },
+      {
+        "quote": "Going from 100% phone bookings to 95% online was a game changer. The booking engine they built eliminated double-bookings and saved us hours of admin work daily.",
+        "name": "Faisal Al-Harbi",
+        "company": "Flexi Car Rental — Operations Manager"
+      },
+      {
+        "quote": "They captured the soul of our hospitality and translated it into a stunning digital experience. We launched at full occupancy — that says everything.",
+        "name": "Abdullah Al-Shammari",
+        "company": "Wahj Al Shamal Hospitality — General Manager"
+      },
+      {
+        "quote": "The minimalist identity they crafted for us speaks exactly the language our high-end clients understand. We're now positioned where we always deserved to be.",
+        "name": "Arch. Omar Nasser",
+        "company": "Caber Design — Principal Architect"
+      },
+      {
+        "quote": "Modernizing a 30-year brand is not easy. Connect Grid honored our legacy while making us relevant to a whole new generation. The results exceeded all expectations.",
+        "name": "Waleed Arwad",
+        "company": "Arwad Group — Chairman"
+      },
+      {
+        "quote": "We went from unknown local shop to #1 in Tabuk online, outranking major retail chains. The SEO work Connect Grid did was simply remarkable.",
+        "name": "Abu Al Ward",
+        "company": "Abu Al Ward Mobile — Owner"
+      },
+      {
+        "quote": "The enterprise-grade brand they built helped us win government contracts that were previously out of reach. Connect Grid didn't just design a logo — they changed our trajectory.",
+        "name": "Tariq Al-Dosari",
+        "company": "Devok Software — CEO"
+      },
+      {
+        "quote": "Unifying five different businesses under one brand identity felt impossible. Connect Grid delivered a system that made us look like the established group we truly are.",
+        "name": "Ali Abu Ali",
+        "company": "Abo Ali Group — Group CEO"
+      },
+      {
+        "quote": "Our tender success rate improved dramatically after the rebrand. Decision makers now recognize Damcon as a serious player before we even walk into the room.",
+        "name": "Eng. Sami Al-Qahtani",
+        "company": "Damcon Construction — Business Development Director"
+      },
+      {
+        "quote": "Launching a luxury perfume brand against French heritage houses felt daunting. Connect Grid gave us an identity so powerful that customers feel the prestige before they even open the bottle.",
+        "name": "Noura Al-Rashidi",
+        "company": "Astiri Perfumes — Founder"
+      },
+      {
+        "quote": "As a startup agency ourselves, we needed a portfolio that punched above our weight. Connect Grid delivered exactly that — 12 enterprise clients in our first year.",
+        "name": "Rakan Al-Otaibi",
+        "company": "Bareq Pixel — Co-Founder"
+      },
+      {
+        "quote": "New packaging, new shelf presence, new buyers. Major retail chains that rejected us before are now actively seeking distribution agreements. The transformation was total.",
+        "name": "Hassan Al-Tarek",
+        "company": "Al Tarek Food Industries — Commercial Director"
+      },
+      {
+        "quote": "Luxury buyers are demanding. Connect Grid helped us speak their language through every touchpoint — and our sales cycle dropped by months.",
+        "name": "Reem Al-Faraj",
+        "company": "Reem Al Sidra Real Estate — Sales Director"
+      },
+      {
+        "quote": "The digital health portal Connect Grid built modernized every patient interaction we have. Bookings are up over 400% and patient satisfaction has never been higher.",
+        "name": "Dr. Samira Hassan",
+        "company": "Shifaa Medical Center — Medical Director"
+      },
+      {
+        "quote": "From brand identity to online ordering to store design — Connect Grid built everything we needed to scale fast. Three locations in one year and still growing!",
+        "name": "Yousef Al-Ghamdi",
+        "company": "Crepe & Juice — Founder"
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Why Choose Connect Grid?",
+    "subtitle": "We combine creativity, data, and dedication to deliver results that matter.",
+    "items": {
+      "resultsDriver": {
+        "title": "Results-Driven",
+        "description": "Every campaign is built around measurable outcomes — not vanity metrics."
+      },
+      "creativeStrategy": {
+        "title": "Creative Strategy",
+        "description": "We craft bold, memorable ideas that cut through the noise and capture attention."
+      },
+      "dataInformed": {
+        "title": "Data-Informed",
+        "description": "Our decisions are backed by real analytics, giving your brand a competitive edge."
+      },
+      "clientFirst": {
+        "title": "Client-First Mindset",
+        "description": "Your success is our success. We treat every client as a long-term partner."
+      },
+      "fastExecution": {
+        "title": "Fast Execution",
+        "description": "We move quickly without sacrificing quality, keeping your brand ahead of the curve."
+      },
+      "transparent": {
+        "title": "Full Transparency",
+        "description": "Clear reporting and open communication at every step of the journey."
+      }
+    }
+  }
+}

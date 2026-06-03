@@ -1,0 +1,549 @@
+{
+  "hero": {
+    "title": "Transform Your Business with Data-Driven Digital Marketing",
+    "subtitle": "Connect Grid delivers measurable growth through strategic SEO, PPC, social media management, and innovative web solutions. Partner with Riyadh's leading digital agency.",
+    "cta": "Start Your Free Strategy Session"
+  },
+  "nav": {
+    "services": "Services",
+    "ourWork": "Our Work",
+    "caseStudies": "Case Studies",
+    "packages": "Packages",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk",
+    "language": "العربية",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "services": {
+    "title": "Our Core Services",
+    "subtitle": "Comprehensive digital solutions designed to accelerate your business growth and maximize ROI",
+    "keyFeatures": "Key Features",
+    "ourProcess": "Our Process",
+    "benefits": "Key Benefits",
+    "learnMore": "Learn More",
+    "listTitle": "Our Services",
+    "listSubtitle": "Explore our full range of expertise",
+    "full": {
+      "digitalmarketingstrategy": "Digital Marketing Strategy",
+      "socialmediamanagement": "Social Media Management",
+      "searchengineoptimization": "Search Engine Optimization (SEO)",
+      "payperclickadvertising": "Pay-Per-Click Advertising (PPC)",
+      "contentmarketing": "Content Marketing",
+      "emailmarketing": "Email Marketing",
+      "webdesigndevelopment": "Web Design & Development",
+      "brandidentitydesign": "Brand Identity & Design",
+      "analyticsreporting": "Analytics & Reporting",
+      "conversionrateoptimization": "Conversion Rate Optimization"
+    },
+    "details": {
+      "digital-marketing-strategy": {
+        "subtitle": "A roadmap for your digital dominance.",
+        "description": "We craft bespoke digital marketing strategies that align with your business goals, ensuring every marketing riyal spent contributes to your bottom line. Our data-driven approach combines market analysis with competitive intelligence.",
+        "keyFeatures": [
+          "Market Analysis",
+          "Competitor Benchmarking",
+          "Growth Roadmaps",
+          "KPI Definition"
+        ],
+        "benefits": [
+          "Aligned Efforts",
+          "Higher ROI",
+          "Competitive Edge"
+        ],
+        "process": [
+          {
+            "title": "Discovery",
+            "description": "Understanding objectives."
+          },
+          {
+            "title": "Strategy",
+            "description": "Tailored action plan."
+          }
+        ]
+      }
+    }
+  },
+  "footer": {
+    "description": "Connect Grid is a full-service digital marketing agency dedicated to helping businesses grow through data-driven strategies.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "address": "Saudi Arabia, Riyadh, Olaya",
+    "copyright": "© {{year}} Connect Grid. All rights reserved."
+  },
+  "cta": {
+    "title": "Ready to Grow Your Business?",
+    "subtitle": "Let's build something great together. Contact us today to discuss your project.",
+    "button": "Schedule a Call"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our expert team",
+    "formTitle": "Send us a message",
+    "formName": "Full Name",
+    "formEmail": "Email Address",
+    "formCompany": "Company (Optional)",
+    "formMessage": "Message",
+    "formNamePlaceholder": "e.g. John Doe",
+    "formEmailPlaceholder": "e.g. john@example.com",
+    "formCompanyPlaceholder": "e.g. Acme Corp",
+    "formMessagePlaceholder": "How can we help your business grow?",
+    "formSubmit": "Send Message",
+    "infoTitle": "Contact Details",
+    "followUs": "Follow Us",
+    "successMessage": "Thank you! Your message has been sent successfully.",
+    "errorMessage": "Sorry, something went wrong. Please try again later.",
+    "email": "Email",
+    "phone": "Phone",
+    "office": "Office"
+  },
+  "blog": {
+    "title": "Our Blog",
+    "subtitle": "Insights, trends, and strategies from the digital world.",
+    "share": "Share this post",
+    "readTime": "min read",
+    "by": "By",
+    "readMore": "Read More",
+    "posts": {
+      "the-ultimate-guide-to-seo-in-2024": {
+        "title": "The Ultimate Guide to SEO in 2024",
+        "author": "Hassan ElSayed",
+        "date": "2024-05-15",
+        "excerpt": "SEO in 2024 is smarter, more user-focused, and driven by trust, experience, and high-quality content. Master it to dominate the SERPs.",
+        "content": [
+          "🔍 E-E-A-T is more important than ever. Search engines prioritize Experience, Expertise, Authoritativeness, and Trust to rank content that genuinely helps users.",
+          "📱 User experience is a ranking factor. Fast-loading pages, mobile-first design, clean navigation, and Core Web Vitals directly impact SEO performance.",
+          "🧠 Search intent beats keyword stuffing. Successful SEO strategies focus on answering user questions clearly and completely, not just ranking for keywords.",
+          "✍️ High-quality content drives organic growth. In-depth blogs, guides, and thought leadership content build authority and attract long-term traffic.",
+          "📈 SEO and marketing alignment is critical. Integrating SEO with content marketing, branding, and conversion optimization maximizes ROI.",
+          "🚀 At Connect Grid, we help businesses build data-driven SEO strategies that increase visibility, traffic, and conversions."
+        ]
+      },
+      "ppc-vs-seo-which-is-right-for-you": {
+        "title": "PPC vs. SEO: Which Is Right for Your Business?",
+        "author": "Ahmed Hesham",
+        "date": "2024-05-01",
+        "excerpt": "Both PPC and SEO are powerful digital marketing tools. The key is knowing when and how to use each for maximum impact.",
+        "content": [
+          "⚡ PPC delivers instant visibility. Paid campaigns place your brand at the top of search results and are ideal for launches, promotions, and short-term goals.",
+          "🌱 SEO builds long-term authority. Organic search creates sustainable traffic and trust that compounds over time.",
+          "💰 PPC offers precise targeting and budget control. You can reach specific audiences based on keywords, location, interests, and behavior.",
+          "🏆 SEO strengthens brand credibility. Users tend to trust organic results more, improving click-through rates and brand perception.",
+          "📊 The smartest strategy combines both. Using PPC for quick wins and SEO for long-term growth creates a balanced, high-performing marketing funnel."
+        ]
+      },
+      "5-social-media-trends-to-watch": {
+        "title": "5 Social Media Trends Your Business Can't Ignore",
+        "author": "Omar AlKhateb",
+        "date": "2024-05-10",
+        "excerpt": "Short-form video, authentic storytelling, AI, and social commerce are redefining how brands connect, engage, and sell on social media.",
+        "content": [
+          "🎥 Short-form video is still king. Platforms like TikTok, Instagram Reels, and YouTube Shorts reward fast, engaging videos that capture attention in seconds and drive massive reach.",
+          "🤝 Authentic content beats polished ads. Users connect more with real stories, behind-the-scenes moments, and honest brand voices than overly scripted marketing messages.",
+          "🛒 Social commerce is turning scrolls into sales. In-app shopping features make it easier than ever for users to discover, trust, and buy products without leaving social platforms.",
+          "💬 Community engagement matters more than follower count. Meaningful conversations, comments, and shares build loyalty and tell algorithms your brand deserves visibility.",
+          "🤖 AI-powered tools are changing the game. From smarter content ideas to deeper analytics and personalization, AI helps brands work faster while staying relevant and creative."
+        ]
+      }
+    }
+  },
+  "caseStudies": {
+    "listTitle": "Case Studies",
+    "listSubtitle": "Browse through our portfolio of 18+ successful digital transformations.",
+    "filterAll": "All",
+    "noResults": "No case studies found.",
+    "clearFilters": "Clear Filters",
+    "challenge": "The Challenge",
+    "solution": "Our Solution",
+    "results": "Results",
+    "visitWebsite": "Visit Website",
+    "servicesProvided": "Services Provided",
+    "details": {
+      "elaf-dental-center": {
+        "title": "Elaf Dental Center",
+        "challenge": "Limited online visibility and low patient bookings despite quality services. The clinic struggled to appear in local searches and lacked a cohesive digital presence to attract new patients in a competitive dental market.",
+        "services": [
+          {
+            "category": "Digital Marketing",
+            "description": "Comprehensive SEO strategy targeting local dental searches with optimized content and Google Business Profile management. Implemented targeted social media campaigns showcasing before/after results, patient testimonials, and educational content. Developed conversion-optimized booking funnels and retargeting campaigns to capture high-intent patients searching for dental services in Riyadh."
+          },
+          {
+            "category": "Graphic Design",
+            "description": "Professional branding materials including modern clinic identity system, promotional assets for social media and print campaigns, and patient communication visuals. Created consistent visual language across all touchpoints from appointment cards to social media posts, ensuring professional and trustworthy brand perception."
+          }
+        ],
+        "results": {
+          "summary": "300% growth in monthly bookings and #1 local search ranking."
+        },
+        "stats": [
+          {
+            "value": "300%",
+            "label": "Growth"
+          }
+        ]
+      },
+      "accurate-system": {
+        "title": "Accurate System Tech",
+        "challenge": "Outdated B2B presence.",
+        "services": [
+          {
+            "category": "Website",
+            "description": "Performance portal."
+          }
+        ],
+        "results": {
+          "summary": "220% increase in leads."
+        },
+        "stats": [
+          {
+            "value": "220%",
+            "label": "Leads"
+          }
+        ]
+      },
+      "dr-ihab-elsharkawy": {
+        "title": "Dr. Ihab ElSharkawy Clinic",
+        "challenge": "Establishing medical authority.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Medical identity."
+          }
+        ],
+        "results": {
+          "summary": "Streamlined patient bookings."
+        },
+        "stats": [
+          {
+            "value": "290%",
+            "label": "Appts"
+          }
+        ]
+      },
+      "al-sebha-stones": {
+        "title": "Al Sebha Stones",
+        "challenge": "Export market B2B branding.",
+        "services": [
+          {
+            "category": "Website",
+            "description": "B2B catalog."
+          }
+        ],
+        "results": {
+          "summary": "Entered regional markets."
+        },
+        "stats": [
+          {
+            "value": "380%",
+            "label": "Inquiries"
+          }
+        ]
+      },
+      "flexi-car-rental": {
+        "title": "Flexi Car Rental",
+        "challenge": "Manual rental process automation.",
+        "services": [
+          {
+            "category": "Website",
+            "description": "Automated booking engine."
+          }
+        ],
+        "results": {
+          "summary": "Top-rated digital rental."
+        },
+        "stats": [
+          {
+            "value": "300+",
+            "label": "Bookings"
+          }
+        ]
+      },
+      "wahj-al-shamal": {
+        "title": "Wahj Al Shamal Hospitality",
+        "challenge": "Cultural story in digital space.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Brand story & identity."
+          }
+        ],
+        "results": {
+          "summary": "Full launch occupancy."
+        },
+        "stats": [
+          {
+            "value": "100%",
+            "label": "Occupancy"
+          }
+        ]
+      },
+      "caber-design": {
+        "title": "Caber Design",
+        "challenge": "Identity mirror for precision.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Minimalist identity."
+          }
+        ],
+        "results": {
+          "summary": "Established top studio."
+        },
+        "stats": [
+          {
+            "value": "400%",
+            "label": "Recognition"
+          }
+        ]
+      },
+      "arwad-branding": {
+        "title": "Arwad Group",
+        "challenge": "Heritage modernization.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Brand architecture."
+          }
+        ],
+        "results": {
+          "summary": "Unified perception."
+        },
+        "stats": [
+          {
+            "value": "280%",
+            "label": "Awareness"
+          }
+        ]
+      },
+      "abu-al-ward-phone": {
+        "title": "Abu Al Ward Mobile",
+        "challenge": "Local to E-commerce jump.",
+        "services": [
+          {
+            "category": "Website",
+            "description": "E-commerce platform."
+          }
+        ],
+        "results": {
+          "summary": "Province rank #1."
+        },
+        "stats": [
+          {
+            "value": "450%",
+            "label": "Sales"
+          }
+        ]
+      },
+      "devok-branding": {
+        "title": "Devok Software",
+        "challenge": "Enterprise tech trust.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Visual language."
+          }
+        ],
+        "results": {
+          "summary": "Gov contracts secured."
+        },
+        "stats": [
+          {
+            "value": "500%",
+            "label": "Contracts"
+          }
+        ]
+      },
+      "abo-ali-group": {
+        "title": "Abo Ali Group",
+        "challenge": "Conglomerate unification.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Group identity system."
+          }
+        ],
+        "results": {
+          "summary": "100% consistency."
+        },
+        "stats": [
+          {
+            "value": "350%",
+            "label": "Recognition"
+          }
+        ]
+      },
+      "damcon-identity": {
+        "title": "Damcon Construction",
+        "challenge": "Government tender credibility.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Industrial brand system."
+          }
+        ],
+        "results": {
+          "summary": "Increased tender success."
+        },
+        "stats": [
+          {
+            "value": "280%",
+            "label": "Success"
+          }
+        ]
+      },
+      "astiri-luxury": {
+        "title": "Astiri Perfumes",
+        "challenge": "Premium market launch.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Luxury visual language."
+          }
+        ],
+        "results": {
+          "summary": "Regional luxury leader."
+        },
+        "stats": [
+          {
+            "value": "420%",
+            "label": "Orders"
+          }
+        ]
+      },
+      "bareq-pixel": {
+        "title": "Bareq Pixel",
+        "challenge": "Agency launch visibility.",
+        "services": [
+          {
+            "category": "Website",
+            "description": "Interactive portfolio."
+          }
+        ],
+        "results": {
+          "summary": "12 major clients."
+        },
+        "stats": [
+          {
+            "value": "12",
+            "label": "Clients"
+          }
+        ]
+      },
+      "al-tarek-industries": {
+        "title": "Al Tarek Food Industries",
+        "challenge": "Retail packaging update.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Packaging redesign."
+          }
+        ],
+        "results": {
+          "summary": "60% higher visibility."
+        },
+        "stats": [
+          {
+            "value": "250%",
+            "label": "Capacity"
+          }
+        ]
+      },
+      "reem-al-sidra": {
+        "title": "Reem Al Sidra Real Estate",
+        "challenge": "Luxury property marketing.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Property visual system."
+          }
+        ],
+        "results": {
+          "summary": "Accelerated cycle."
+        },
+        "stats": [
+          {
+            "value": "320%",
+            "label": "Velocity"
+          }
+        ]
+      },
+      "shifaa-medical-center": {
+        "title": "Shifaa Medical Center",
+        "challenge": "Medical portal transformation.",
+        "services": [
+          {
+            "category": "Website",
+            "description": "Health services portal."
+          }
+        ],
+        "results": {
+          "summary": "Doubled patient volume."
+        },
+        "stats": [
+          {
+            "value": "410%",
+            "label": "Bookings"
+          }
+        ]
+      },
+      "crepe-juice-branding": {
+        "title": "Crepe & Juice",
+        "challenge": "Startup vibrancy.",
+        "services": [
+          {
+            "category": "Branding",
+            "description": "Vibrant visual identity."
+          }
+        ],
+        "results": {
+          "summary": "3 locations in year 1."
+        },
+        "stats": [
+          {
+            "value": "560%",
+            "label": "Engagement"
+          }
+        ]
+      }
+    }
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "caseStudies": "Case Studies"
+  },
+  "whyUs": {
+    "title": "Why Choose Connect Grid?",
+    "subtitle": "We combine creativity, data, and dedication to deliver results that matter.",
+    "items": {
+      "resultsDriver": {
+        "title": "Results-Driven",
+        "description": "Every campaign is built around measurable outcomes — not vanity metrics."
+      },
+      "creativeStrategy": {
+        "title": "Creative Strategy",
+        "description": "We craft bold, memorable ideas that cut through the noise and capture attention."
+      },
+      "dataInformed": {
+        "title": "Data-Informed",
+        "description": "Our decisions are backed by real analytics, giving your brand a competitive edge."
+      },
+      "clientFirst": {
+        "title": "Client-First Mindset",
+        "description": "Your success is our success. We treat every client as a long-term partner."
+      },
+      "fastExecution": {
+        "title": "Fast Execution",
+        "description": "We move quickly without sacrificing quality, keeping your brand ahead of the curve."
+      },
+      "transparent": {
+        "title": "Full Transparency",
+        "description": "Clear reporting and open communication at every step of the journey."
+      }
+    }
+  }
+}
