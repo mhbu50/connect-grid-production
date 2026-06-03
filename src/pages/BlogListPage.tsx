@@ -1,20 +1,37 @@
-import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { ArrowRight } from 'lucide-react';
 import { PageHeader } from '@/components/shared/PageHeader';
+import { Seo } from '@/components/shared/Seo';
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { BLOG_POSTS } from '@/constants';
 export function BlogListPage() {
   const { t } = useTranslation();
   const posts = Object.entries(BLOG_POSTS);
+  const blogSchema = {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": `${t('blog.title')} | Connect Grid`,
+    "description": t('blog.subtitle'),
+    "url": "https://connectgrid.com/blog",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Connect Grid",
+      "url": "https://connectgrid.com",
+      "logo": "https://connectgrid.com/logo.png"
+    }
+  };
   return (
     <>
-      <Helmet>
-        <title>Blog | Connect Grid</title>
-        <meta name="description" content="Insights, trends, and strategies from the world of digital marketing from the experts at Connect Grid." />
-      </Helmet>
+      <Seo
+        title={`${t('blog.title')} | Connect Grid`}
+        description={t('blog.subtitle')}
+        image="https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=2070&auto=format&fit=crop"
+        type="website"
+        keywords="digital marketing blog, SEO tips Saudi Arabia, social media marketing, content strategy, Riyadh marketing agency"
+        schema={blogSchema}
+      />
       <PageHeader
         title={t('blog.title')}
         subtitle={t('blog.subtitle')}
