@@ -88,7 +88,7 @@ export function Footer() {
                 </a>
               </li>
               <li className="flex items-center gap-2">
-                <a href={`tel:${CONTACT_DETAILS.phone}`} dir="ltr" className="hover:text-primary transition-colors">
+                <a href={`tel:${CONTACT_DETAILS.phone}`} dir="ltr" style={{ unicodeBidi: 'embed', direction: 'ltr' }} className="hover:text-primary transition-colors">
                   {CONTACT_DETAILS.phoneFormatted}
                 </a>
               </li>
