@@ -127,53 +127,32 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/connectgrid_/",
   x: "https://x.com/connectgrid_",
 };
-export const BLOG_POSTS: Record<string, any> = {
+export const BLOG_POSTS: Record<string, { image: string; readTime: string }> = {
   'the-ultimate-guide-to-seo-in-2024': {
-    title: 'The Ultimate Guide to SEO in 2024',
-    author: 'Mohammed Abu Khamseen',
-    date: '2024-05-15',
     readTime: '8 min',
     image: 'https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?q=80&w=2070&auto=format&fit=crop',
   },
   '5-social-media-trends-to-watch': {
-    title: '5 Social Media Trends Your Business Can\'t Ignore',
-    author: 'Ahmed Hesham',
-    date: '2024-05-10',
     readTime: '6 min',
     image: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=1974&auto=format&fit=crop',
   },
   'ppc-vs-seo-which-is-right-for-you': {
-    title: 'PPC vs. SEO: Which Is Right for Your Business?',
-    author: 'Ahmed Hesham',
-    date: '2024-05-01',
     readTime: '7 min',
     image: 'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070&auto=format&fit=crop',
   },
   'how-to-build-a-winning-content-strategy': {
-    title: 'How to Build a Winning Content Strategy for 2025',
-    author: 'Ahmed Hesham',
-    date: '2024-06-05',
     readTime: '7 min',
     image: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop',
   },
   'the-power-of-brand-identity': {
-    title: 'The Power of Brand Identity: Why Consistency Drives Revenue',
-    author: 'Mohammed Abu Khamseen',
-    date: '2024-06-12',
     readTime: '6 min',
     image: 'https://images.unsplash.com/photo-1634942537034-2531766767d1?q=80&w=2070&auto=format&fit=crop',
   },
   'instagram-vs-tiktok-for-business': {
-    title: 'Instagram vs. TikTok: Which Platform Should Your Business Prioritize?',
-    author: 'Ahmed Hesham',
-    date: '2024-06-20',
     readTime: '5 min',
     image: 'https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?q=80&w=2074&auto=format&fit=crop',
   },
   'local-seo-for-saudi-businesses': {
-    title: 'How Saudi Businesses Can Dominate Local SEO in 2025',
-    author: 'Mohammed Abu Khamseen',
-    date: '2024-07-01',
     readTime: '8 min',
     image: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?q=80&w=2070&auto=format&fit=crop',
   },

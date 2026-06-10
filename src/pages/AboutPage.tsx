@@ -29,8 +29,9 @@ export function AboutPage() {
   return (
     <>
       <Seo
-        title="About Us | Connect Grid"
-        description="Learn about Connect Grid's mission, values, and the expert team dedicated to driving digital marketing success for your business."
+        title="About Connect Grid (CG) | Digital Marketing Agency Riyadh"
+        description="Learn about Connect Grid (CG), Riyadh's trusted digital marketing agency. Our expert team has been driving results for Saudi businesses since 2020."
+        keywords="about Connect Grid, about CG marketing, CG agency Riyadh, digital marketing team Saudi Arabia, Connect Grid story"
         canonical="https://connectgrid.com/about"
       />
       <PageHeader

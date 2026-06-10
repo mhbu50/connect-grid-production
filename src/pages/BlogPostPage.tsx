@@ -30,15 +30,11 @@ export function BlogPostPage() {
   if (!postStatic && (!postData || !postData.title)) {
     return <Navigate to="/blog" replace />;
   }
-  const title = postData?.title || postStatic?.title || "";
-  const author = postData?.author || postStatic?.author || "";
-  const date = postData?.date || postStatic?.date || "";
-  const excerpt = postData?.excerpt || postStatic?.excerpt || "";
-  const content = Array.isArray(postData?.content) 
-    ? postData.content 
-    : Array.isArray(postStatic?.content) 
-      ? postStatic.content 
-      : [];
+  const title = postData?.title || "";
+  const author = postData?.author || "";
+  const date = postData?.date || "";
+  const excerpt = postData?.excerpt || "";
+  const content = Array.isArray(postData?.content) ? postData.content : [];
   const readTime = postStatic?.readTime || "5 min";
   const image = postStatic?.image || "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?q=80&w=2070&auto=format&fit=crop";
   const breadcrumbItems = [

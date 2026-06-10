@@ -22,8 +22,9 @@ export function ServicesListPage() {
   return (
     <>
       <Seo
-        title="Our Services | Connect Grid"
-        description="Explore the full range of digital marketing services offered by Connect Grid, including SEO, PPC, social media management, and more."
+        title="Digital Marketing Services | Connect Grid (CG) Riyadh"
+        description="Explore Connect Grid's (CG Marketing) full range of services: SEO, PPC, social media, branding, and web design — all tailored for Saudi businesses."
+        keywords="Connect Grid services, CG marketing services, digital marketing services Riyadh, SEO services, PPC advertising Saudi Arabia, social media management, brand design"
         canonical="https://connectgrid.com/services"
       />
       <PageHeader
