@@ -9,8 +9,7 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import Autoplay from "embla-carousel-autoplay";
-import { TESTIMONIAL_AVATARS } from '@/constants';
-import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
+import { Avatar, AvatarFallback } from '@/components/ui/avatar';
 import { Quote } from 'lucide-react';
 
 export function TestimonialsCarousel() {
@@ -69,10 +68,6 @@ export function TestimonialsCarousel() {
                       </p>
                       <div className="flex items-center gap-4 pt-4">
                         <Avatar className="h-12 w-12">
-                          <AvatarImage
-                            src={TESTIMONIAL_AVATARS[index]?.avatar}
-                            alt={testimonial.name}
-                          />
                           <AvatarFallback className="bg-primary text-white">
                             {testimonial.name?.charAt(0)?.toUpperCase() || '?'}
                           </AvatarFallback>
