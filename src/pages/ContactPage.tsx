@@ -200,7 +200,7 @@ export function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-bold text-foreground">{t('contact.phone')}</h3>
-                      <a href={`tel:${CONTACT_DETAILS.phone}`} className="text-muted-foreground hover:text-primary transition-colors">{CONTACT_DETAILS.phoneFormatted}</a>
+                      <a href={`tel:${CONTACT_DETAILS.phone}`} dir="ltr" className="text-muted-foreground hover:text-primary transition-colors">{CONTACT_DETAILS.phoneFormatted}</a>
                     </div>
                   </CardContent>
                 </Card>
