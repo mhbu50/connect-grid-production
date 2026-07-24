@@ -1,4 +1,4 @@
-import { useParams, Navigate } from 'react-router-dom';
+﻿import { useParams, Navigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { CheckCircle, Zap } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
@@ -58,7 +58,7 @@ export function ServiceDetailPage() {
       <Seo
         title={`${serviceTitle} | Connect Grid`}
         description={serviceData.description}
-        canonical={`https://connectgrid.com/services/${slug}`}
+        canonical={`https://connect-grid.com/services/${slug}`}
       />
       <div className="bg-muted dark:bg-background/50 pt-10 pb-16 md:pb-24">
         <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

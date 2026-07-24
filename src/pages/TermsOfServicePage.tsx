@@ -1,4 +1,4 @@
-import { Seo } from '@/components/shared/Seo';
+﻿import { Seo } from '@/components/shared/Seo';
 import { LegalPageLayout } from '@/components/shared/LegalPageLayout';
 export function TermsOfServicePage() {
   return (
@@ -6,13 +6,13 @@ export function TermsOfServicePage() {
       <Seo
         title="Terms of Service | Connect Grid"
         description="Read the Terms of Service for using the Connect Grid website and engaging with our digital marketing services."
-        canonical="https://connectgrid.com/terms-of-service"
+        canonical="https://connect-grid.com/terms-of-service"
       />
       {/* TODO: Make the terms and conditions production ready  */}
       <LegalPageLayout title="Terms of Service">
 <h2>1. Agreement to Terms</h2>
       <p>
-        By accessing and using the ConnectGrid website (connectgrid.com) and any related services 
+        By accessing and using the ConnectGrid website (connect-grid.com) and any related services 
         (collectively, the "Services"), you acknowledge that you have read, understood, and agree to 
         be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must 
         not access or use our Services.
@@ -389,7 +389,7 @@ export function TermsOfServicePage() {
       <div className="bg-gray-50 p-4 rounded-lg mt-4">
         <p className="mb-2"><strong>ConnectGrid</strong></p>
         <p className="mb-1">Email: <a href="mailto:info@connect-grid.com" className="text-blue-600 hover:text-blue-800">info@connect-grid.com</a></p>
-        <p className="mb-1">Website: <a href="https://connectgrid.com" className="text-blue-600 hover:text-blue-800">connectgrid.com</a></p>
+        <p className="mb-1">Website: <a href="https://connect-grid.com" className="text-blue-600 hover:text-blue-800">connect-grid.com</a></p>
         <p>Kingdom of Saudi Arabia</p>
       </div>
       <div className="bg-amber-50 border-l-4 border-amber-500 p-4 mt-8">

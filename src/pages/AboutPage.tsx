@@ -1,10 +1,10 @@
-import React from 'react';
+﻿import React from 'react';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { Seo } from '@/components/shared/Seo';
 import { PageHeader } from '@/components/shared/PageHeader';
-import { TEAM_MEMBERS, CLIENT_LOGOS } from '@/constants';
+import { CLIENT_LOGOS } from '@/constants';
 import { Card, CardContent } from '@/components/ui/card';
 import { Target, Lightbulb, BarChart3, HeartHandshake, Zap, ShieldCheck } from 'lucide-react';
 
@@ -32,7 +32,7 @@ export function AboutPage() {
         title="About Connect Grid (CG) | Digital Marketing Agency Riyadh"
         description="Learn about Connect Grid (CG), Riyadh's trusted digital marketing agency. Our expert team has been driving results for Saudi businesses since 2020."
         keywords="about Connect Grid, about CG marketing, CG agency Riyadh, digital marketing team Saudi Arabia, Connect Grid story"
-        canonical="https://connectgrid.com/about"
+        canonical="https://connect-grid.com/about"
       />
       <PageHeader
         title={t('about.pageTitle')}

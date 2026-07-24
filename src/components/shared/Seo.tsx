@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import { useLocation } from 'react-router-dom';
 interface SeoProps {
@@ -13,9 +13,9 @@ interface SeoProps {
   author?: string;
   noIndex?: boolean;
 }
-const DEFAULT_IMAGE = "https://i.ibb.co/4g9whMzF/Elaf-Dental-Aesthetic-Center.webp";
+const DEFAULT_IMAGE = "https://connect-grid.com/og-image.png";
 const SITE_NAME = "Connect Grid";
-const BASE_URL = "https://connectgrid.com";
+const BASE_URL = "https://connect-grid.com";
 const TWITTER_HANDLE = "@connectgrid_";
 export const Seo = ({
   title,

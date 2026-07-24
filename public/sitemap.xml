@@ -1,46 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Static Pages -->
-  <url><loc>https://connectgrid.com/</loc><lastmod>2026-06-10</lastmod><priority>1.0</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://connectgrid.com/about</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services</loc><lastmod>2026-06-10</lastmod><priority>0.9</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://connectgrid.com/packages</loc><lastmod>2026-06-10</lastmod><priority>0.9</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>weekly</changefreq></url>
-  <url><loc>https://connectgrid.com/blog</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>daily</changefreq></url>
-  <url><loc>https://connectgrid.com/contact</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/careers</loc><lastmod>2026-06-10</lastmod><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/</loc><lastmod>2026-07-24</lastmod><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://connect-grid.com/about</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services</loc><lastmod>2026-07-24</lastmod><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://connect-grid.com/packages</loc><lastmod>2026-07-24</lastmod><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://connect-grid.com/blog</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://connect-grid.com/contact</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <!-- Service Pages -->
-  <url><loc>https://connectgrid.com/services/digital-marketing-strategy</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/social-media-management</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/search-engine-optimization</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/pay-per-click-advertising</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/content-marketing</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/email-marketing</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/web-design-development</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/brand-identity-design</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/analytics-reporting</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://connectgrid.com/services/conversion-rate-optimization</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/digital-marketing-strategy</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/social-media-management</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/search-engine-optimization</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/pay-per-click-advertising</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/content-marketing</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/email-marketing</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/web-design-development</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/brand-identity-design</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/analytics-reporting</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://connect-grid.com/services/conversion-rate-optimization</loc><lastmod>2026-07-24</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <!-- Case Studies -->
-  <url><loc>https://connectgrid.com/case-studies/elaf-dental-center</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/caber-design</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/arwad-branding</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/accurate-system</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/abu-al-ward-phone</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/dr-ihab-elsharkawy</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/devok-branding</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/abo-ali-group</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/damcon-identity</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/astiri-luxury</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/bareq-pixel</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/al-sebha-stones</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/wahj-al-shamal</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/al-tarek-industries</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/flexi-car-rental</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/reem-al-sidra</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/shifaa-medical-center</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/case-studies/crepe-juice-branding</loc><lastmod>2026-06-10</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/elaf-dental-center</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/caber-design</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/arwad-branding</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/accurate-system</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/abu-al-ward-phone</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/dr-ihab-elsharkawy</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/devok-branding</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/abo-ali-group</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/damcon-identity</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/astiri-luxury</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/bareq-pixel</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/al-sebha-stones</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/wahj-al-shamal</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/al-tarek-industries</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/flexi-car-rental</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/reem-al-sidra</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/shifaa-medical-center</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/case-studies/crepe-juice-branding</loc><lastmod>2026-07-24</lastmod><priority>0.7</priority><changefreq>yearly</changefreq></url>
   <!-- Blog Posts -->
-  <url><loc>https://connectgrid.com/blog/the-ultimate-guide-to-seo-in-2024</loc><lastmod>2026-06-10</lastmod><priority>0.6</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/blog/5-social-media-trends-to-watch</loc><lastmod>2026-06-10</lastmod><priority>0.6</priority><changefreq>yearly</changefreq></url>
-  <url><loc>https://connectgrid.com/blog/ppc-vs-seo-which-is-right-for-you</loc><lastmod>2026-06-10</lastmod><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/blog/the-ultimate-guide-to-seo-in-2024</loc><lastmod>2026-07-24</lastmod><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/blog/5-social-media-trends-to-watch</loc><lastmod>2026-07-24</lastmod><priority>0.6</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://connect-grid.com/blog/ppc-vs-seo-which-is-right-for-you</loc><lastmod>2026-07-24</lastmod><priority>0.6</priority><changefreq>yearly</changefreq></url>
 </urlset>

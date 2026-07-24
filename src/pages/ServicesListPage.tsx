@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+﻿import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { ArrowRight } from 'lucide-react';
@@ -23,9 +23,9 @@ export function ServicesListPage() {
     <>
       <Seo
         title="Digital Marketing Services | Connect Grid (CG) Riyadh"
-        description="Explore Connect Grid's (CG Marketing) full range of services: SEO, PPC, social media, branding, and web design — all tailored for Saudi businesses."
+        description="Explore Connect Grid's (CG Marketing) full range of services: SEO, PPC, social media, branding, and web design â€” all tailored for Saudi businesses."
         keywords="Connect Grid services, CG marketing services, digital marketing services Riyadh, SEO services, PPC advertising Saudi Arabia, social media management, brand design"
-        canonical="https://connectgrid.com/services"
+        canonical="https://connect-grid.com/services"
       />
       <PageHeader
         title={t('services.listTitle')}

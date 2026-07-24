@@ -1,13 +1,13 @@
-import { Helmet } from 'react-helmet-async';
+﻿import { Helmet } from 'react-helmet-async';
 import { useLocation } from 'react-router-dom';
 
-const BASE_URL = 'https://connectgrid.com';
+const BASE_URL = 'https://connect-grid.com';
 
 /**
- * HREFLANG — KNOWN LIMITATION
+ * HREFLANG â€” KNOWN LIMITATION
  *
  * This site switches language client-side via i18next (stored in a cookie).
- * There is no URL differentiation between languages — /about is the same URL
+ * There is no URL differentiation between languages â€” /about is the same URL
  * in both English and Arabic. As a result, all three hreflang tags below point
  * to the same canonical URL.
  *
@@ -21,8 +21,8 @@ const BASE_URL = 'https://connectgrid.com';
  *
  * Recommended fix (future refactor):
  * Implement URL-based language routing using subdirectories:
- *   connectgrid.com/en/about  →  hrefLang="en"
- *   connectgrid.com/ar/about  →  hrefLang="ar"
+ *   connect-grid.com/en/about  â†’  hrefLang="en"
+ *   connect-grid.com/ar/about  â†’  hrefLang="ar"
  *
  * This would allow Google to index and serve each language version independently,
  * significantly improving organic reach for Arabic-language searches in the GCC.
@@ -30,7 +30,7 @@ const BASE_URL = 'https://connectgrid.com';
  * and all internal links and canonical URLs.
  *
  * Until that refactor, x-default covers the canonical and the lang tags are
- * present for spec compliance — they do no harm but deliver limited SEO benefit.
+ * present for spec compliance â€” they do no harm but deliver limited SEO benefit.
  */
 export const HreflangLinks = () => {
   const location = useLocation();

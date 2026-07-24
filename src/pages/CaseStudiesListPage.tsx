@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+﻿import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
@@ -46,7 +46,7 @@ export function CaseStudiesListPage() {
       <Seo
         title="Success Stories | Connect Grid"
         description="Browse through our portfolio of 18+ successful digital transformations, branding excellence, and marketing growth stories."
-        canonical="https://connectgrid.com/case-studies"
+        canonical="https://connect-grid.com/case-studies"
       />
       <PageHeader
         title={t('caseStudies.listTitle')}

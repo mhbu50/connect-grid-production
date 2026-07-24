@@ -10,3 +10,8 @@ dist/
 # misc
 .bootstrap-complete
 $PROFILE.txt
+
+# local env
+.env
+.env.local
+.env.*.local

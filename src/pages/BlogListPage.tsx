@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+﻿import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import { ArrowRight } from 'lucide-react';
@@ -14,12 +14,12 @@ export function BlogListPage() {
     "@type": "Blog",
     "name": `${t('blog.title')} | Connect Grid`,
     "description": t('blog.subtitle'),
-    "url": "https://connectgrid.com/blog",
+    "url": "https://connect-grid.com/blog",
     "publisher": {
       "@type": "Organization",
       "name": "Connect Grid",
-      "url": "https://connectgrid.com",
-      "logo": "https://connectgrid.com/logo.png"
+      "url": "https://connect-grid.com",
+      "logo": "https://connect-grid.com/logo.png"
     }
   };
   return (

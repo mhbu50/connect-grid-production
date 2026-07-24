@@ -1,4 +1,4 @@
-import { Seo } from '@/components/shared/Seo';
+﻿import { Seo } from '@/components/shared/Seo';
 import { HeroSection } from '@/components/homepage/HeroSection';
 import { ServicesGrid } from '@/components/homepage/ServicesGrid';
 import { TestimonialsCarousel } from '@/components/homepage/TestimonialsCarousel';
@@ -9,10 +9,11 @@ export function HomePage() {
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": "https://connect-grid.com/#organization",
     "name": "Connect Grid",
     "alternateName": ["CG", "CG Marketing", "Connect Grid Marketing", "CG Digital Agency"],
-    "url": "https://connectgrid.com/",
-    "logo": "https://connectgrid.com/logo.png",
+    "url": "https://connect-grid.com/",
+    "logo": "https://connect-grid.com/logo.png",
     "founder": "Mohammed Abu Khamseen",
     "foundingDate": "2020",
     "description": "Connect Grid (CG) is a leading digital marketing agency in Riyadh, Saudi Arabia. We specialize in SEO, PPC, social media management, branding, and web design.",
@@ -54,14 +55,11 @@ export function HomePage() {
   const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "url": "https://connectgrid.com/",
+    "url": "https://connect-grid.com/",
     "name": "Connect Grid | Digital Marketing Agency",
     "description": "Leading digital marketing agency in Riyadh specializing in SEO, PPC, and Branding.",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://connectgrid.com/search?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
+    "inLanguage": ["en", "ar"],
+    "publisher": { "@id": "https://connect-grid.com/#organization" }
   };
   const faqSchema = {
     "@context": "https://schema.org",

@@ -1,4 +1,4 @@
-import React, { useRef, useMemo } from 'react';
+﻿import React, { useRef, useMemo } from 'react';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import * as z from 'zod';
@@ -61,9 +61,9 @@ export function ContactPage() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "Connect Grid",
-    "image": "https://connectgrid.com/logo.png",
-    "@id": "https://connectgrid.com",
-    "url": "https://connectgrid.com",
+    "image": "https://connect-grid.com/logo.png",
+    "@id": "https://connect-grid.com",
+    "url": "https://connect-grid.com",
     "telephone": CONTACT_DETAILS.phone,
     "address": {
       "@type": "PostalAddress",
@@ -96,7 +96,7 @@ export function ContactPage() {
         title="Contact Connect Grid | Digital Marketing Agency in Riyadh"
         description="Ready to grow? Contact Riyadh's top marketing agency. Visit our Olaya office or send us a message to start your digital transformation today."
         keywords="contact marketing agency Riyadh, marketing office Olaya, digital strategy consultation Riyadh"
-        canonical="https://connectgrid.com/contact"
+        canonical="https://connect-grid.com/contact"
         schema={localBusinessSchema}
       />
       <PageHeader

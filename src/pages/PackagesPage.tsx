@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+﻿import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Check, Gift, Sparkles, Info } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
@@ -60,7 +60,7 @@ export function PackagesPage() {
         title="Social Media Marketing Packages Riyadh | Connect Grid"
         description="Transparent pricing for professional social media management in Riyadh. Choose a plan that fits your growth goals."
         keywords="social media pricing Riyadh, marketing packages SA, instagram management cost, social media agency price"
-        canonical="https://connectgrid.com/packages"
+        canonical="https://connect-grid.com/packages"
         schema={schema}
       />
       <PageHeader
@@ -93,8 +93,8 @@ export function PackagesPage() {
           {/* Packages Grid */}
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch">
             {packages.map((pkg, index) => {
-              const isPopular = pkg.badge?.includes('Popular') || pkg.badge?.includes('شعبية');
-              const isValue = pkg.badge?.includes('Value') || pkg.badge?.includes('قيمة');
+              const isPopular = pkg.badge?.includes('Popular') || pkg.badge?.includes('Ø´Ø¹Ø¨ÙŠØ©');
+              const isValue = pkg.badge?.includes('Value') || pkg.badge?.includes('Ù‚ÙŠÙ…Ø©');
               const features = Array.isArray(pkg.features) ? pkg.features : [];
               return (
                 <motion.div

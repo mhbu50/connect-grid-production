@@ -1,4 +1,4 @@
-import { Seo } from '@/components/shared/Seo';
+﻿import { Seo } from '@/components/shared/Seo';
 import { LegalPageLayout } from '@/components/shared/LegalPageLayout';
 export function PrivacyPolicyPage() {
   return (
@@ -6,7 +6,7 @@ export function PrivacyPolicyPage() {
       <Seo
         title="Privacy Policy | Connect Grid"
         description="Read the Privacy Policy for Connect Grid to understand how we collect, use, and protect your personal information."
-        canonical="https://connectgrid.com/privacy-policy"
+        canonical="https://connect-grid.com/privacy-policy"
       />
       <LegalPageLayout title="Privacy Policy">
         <h2>1. Introduction</h2>

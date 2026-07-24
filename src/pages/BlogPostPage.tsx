@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { useParams, Navigate, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Calendar, Clock, User, Linkedin, Twitter, Facebook } from 'lucide-react';
@@ -56,17 +56,17 @@ export function BlogPostPage() {
       "name": "Connect Grid",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://connectgrid.com/logo.png"
+        "url": "https://connect-grid.com/logo.png"
       }
     },
     "datePublished": date,
     "description": excerpt,
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://connectgrid.com/blog/${sanitizedSlug}`
+      "@id": `https://connect-grid.com/blog/${sanitizedSlug}`
     }
   };
-  const pageUrl = `https://connectgrid.com${location.pathname}`;
+  const pageUrl = `https://connect-grid.com${location.pathname}`;
   const shareLinks = {
     linkedin: `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(pageUrl)}&title=${encodeURIComponent(title)}`,
     twitter: `https://twitter.com/intent/tweet?url=${encodeURIComponent(pageUrl)}&text=${encodeURIComponent(title)}`,
