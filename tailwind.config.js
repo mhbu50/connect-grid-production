@@ -14,8 +14,10 @@ export default {
   				'sans-serif'
   			],
         arabic: ['Noto Sans Arabic', 'sans-serif'],
+  			// Cal Sans was listed here but never loaded (index.css imports only Inter +
+  			// Noto Sans Arabic), so font-display always fell back to Inter anyway.
+  			// Dropped so the config matches what actually renders. No visual change.
   			display: [
-  				'Cal Sans',
   				'Inter',
   				'system-ui',
   				'sans-serif'
