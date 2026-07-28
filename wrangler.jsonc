@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "connectgrid-agency-w-borpyy_f-ughb7-qbrx48",
+	"name": "connect-grid-production",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
